@@ -1,3 +1,297 @@
-Well, perhaps you could help me all the same? I can't move at all, I'm afraid. But I need Brain Fluid. Murky, mushy Brain Fluid. Help me hear the sticky sound, I've gone so long without it... 
-Please, could you do something for me? I need Brain Fluid. Murky, mushy Brain Fluid... 
-The murky, mushy fluid that will make me whole. The sticky sound whispers to me. So very close, right into my ear. 
+
+
+
+
+
+
+  (function() {
+    var cx = '009909572006487121327:bjvowdd9-aq';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+
+
+
+
+
+
+Current Game Version ●
+1.09
+Patch Live ●
+Dec 21, 2015
+Last Server Maintenance ●
+April 13, 2023
+Next Server Maintenance ●
+No scheduled
+Server Status ●
+ONLINE
+✓
+
+
+
+
+Index
+Contact
+Chat
+Notes
+Contributors
+FAQs
+Links & Tools
+
+
+
+
+
+
+
+
+
+
+Return to Yharnam 2023: Community event taking place from March 24th to April 7th (Ended). | Newest Article: Jan 14, 2024 | Unique Items in Chalice Dungeons
+
+
+
+
+
+
+
+General Information
+Home / Sitemap
+Expansion
+Reviews & Sales
+Game Patches
+Game Mechanics
+Controls
+
+
+Your Character
+Character Classes
+Character Stats
+Character Builds
+Covenants
+Sliders
+
+
+Equipment
+Weapons
+Firearms
+Shields & Torches
+Armor
+Items
+Gems & Materials
+
+
+The World
+Bosses
+Enemies
+Merchants
+NPCs
+Locations
+Chalice Dungeons
+
+
+Other Information
+World & Progression
+Farming
+Trophies
+Credits
+Art of Bloodborne
+Unused Content
+
+
+
+
+
+Bloodborne & The Old Hunters Collector’s Edition Guides
+Future Press gone behind the scenes with Bloodborne's creators to unearth every secret hidden within the mysterious city of Yharnam. Your hunt through the streets of Yharnam will be your most exciting and rewarding journey yet, and the road will be hard. But fear not! These guides are your key to mastering the merciless challenges and navigating the darkest depths of the city. [More]
+
+Bloodborne DiscordTomb Prospectors Discord
+
+
+
+
+          
+        
+
+          
+        
+
+
+
+
+
+
+
+Contributors
+
+
+
+
+
+ ContributorsBloodborne Wiki » Contributors
+
+
+ Source &VerticalSeparator; Edit &VerticalSeparator; Sitemap &VerticalSeparator; License
+page revision: 31, last edited: 03 Feb 2022
+
+
+
+ 
+
+Table of Contents 
+
+ 
+ 
+
+Bloodborne & The Old Hunters Collector’s Edition Guides
+My Thanks
+ 
+   
+   
+
+
+
+
+  Bloodborne & The Old Hunters Collector’s Edition Guides
+
+
+
+And so the nightly hunt begins...
+From the same team that created the critically acclaimed Dark Souls II guide comes a new invaluable
+treasure. We've gone behind the scenes with Bloodborne's creators to unearth every secret hidden within
+the mysterious city of Yharnam. Your hunt through the streets of Yharnam will be your most exciting and
+rewarding journey yet, and the road will be hard. But fear not! This guide is your key to mastering the
+merciless challenges and navigating the darkest depths of the city.
+
+
+More information about the Guides on  Future Press official website.
+
+Big thanks to Future Press and people working on Bloodborne Guide, their huge effort and dedication provided outstanding information base for whole community. 
+
+Special thanks to Marcus aka EpicNameBro, his Youtube Channel and Franz aka A German Spy, his Youtube Channel for all their hard work they put into this.
+
+
+
+
+
+
+
+
+
+  - My Thanks -
+
+
+
+
+
+
+
+  Biggest thanks belongs to the vibrant community which surrounded Bloodborne from the moment it was announced. Any project such as this couldn't be made without passion and countless hours of grind from people who genuinely love this game - be it lore analytists, PvP duelers, dataminers or discord communities. 
+Thank you for reading Bloodborne-wiki and most importantly keep enjoying the game.
+  
+
+  
+    praske ► Thank you for your great work on spreadsheets of datamined values for all enemies, bosses and NPCs. Especially BB calculator.Sophie Pilbeam (JSF) ► Thank you for your tireless support on about anything concerning the wiki.
+
+Lance ► Datamining guru, make sure to check his YT channel.DrAnger ► His research into Chalice Dungeons and Blood Gems value is beyond measure.
+
+Foxyhooligans ► His research into game mechanics from datamined files is incredible, thank you.Claude ► Helping on many occasions, especially with 1.00 game version comparisons.
+  
+mug ► Thank you for all datamined stuff, especially for voice actors stuff.Altair ► Great creator of valuable guides of all kind.
+
+Scorched Knight ► Creator of all awesome PvP techs for the wiki.Kou_Kagerou ► Passionate supporter and gatherer of BB lore all around.
+
+Astral Lace ► Datamining ingame models has never been this exciting.Signaltonsalat ► Thank you for helping the technical side of this wiki. 
+
+Dropoff ► Sharing his datamined map files and models, thank you.Discord - Research Hall ► Bloodborne Discord channel with enough kind ppl and BB enthusiasts who help to conduct complex wiki research, with naming a few Grunt Slayer, Renascent Fire, Jake, Juli, Valentine, Artirian Legacy and Refrigerator.
+
+MorosNyx ► Tomb Prospector admin who provides all kind of Chalice Dungeon oddities to the wiki, be sure to visit their /r/tombprospectors/ subreddit.NovaTheLoneHunter ► Reddit researcher who provided plethora of thorough research in Bloodborne.
+
+XTrinX ► Tomb Prospector collecting hard data especially on Illusory Walls and Beast-Possessed Soul vs the World shenenigans.Romanticore ► Speedrunner helping us understand how to perform all kind of skips in world of Yharnam, his YT channel is must see.
+
+Aladore 384 ► Sparring partner for all kind of tests and Chalice Dungeon research, be sure to check his YT channel.Shadowfangs99 ► Redditor who in search for his comics data dived deep into Bloodborne timeline and other oddities.
+
+delsinsfire ► Thank you, it's great addition of stylized gifs for Hunters Tools and Locations Gallery, make sure to check delsinsfire's blog.Jaushelberg ► Taking role of photographer for wiki's galleries observing Yharnamites in their natural habitat, Jaushelberg's YT Channel.
+
+Martin Hernik ► Taking up graphic's role in several wiki's projects, especially with new icons.valkyriePROfail ► Our Blood Gems and Chalice Dungeons guru helping commoners out.
+
+Hypn0tyks ► Creator of best Bloodborne maps out there, thank you.BRBGTGBOWFLEX ► Great redditor and tomb raider, thank you for allowing us to use Chalice Dungeons FAQs and Flow Chart foundation.
+
+Uhka ► Finnish power house is at it again.iKbax ► Thanks goes to redditor for collecting information about farming spots.
+
+Sevy ► Long time redditor, comes to aid friends in need.Rylicious ► DeS PvPer and good friend, also the best streamer.
+
+Phillip ► Hard working German friend from EU DeS community.rubhen925 ► Thank you for providing images of items, weapons and armor. Much appreciated.
+
+SwinnyUK ► Awesome contributor for boss strategies of all kinds.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+      
+
+
+Home
+
+
+
+
+Subscribe to:
+Posts (Atom)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+window.onload = function() {document.getElementById("gsc-i-id1").placeholder = "Search Bloodborne Wiki";};
+
+
+
+window['__wavt'] = 'AOuZoY4wwgFml-i91_xYSzuJBHGJ2GvmkA:1706660194321';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d6296044239170440092','//www.bloodborne-wiki.com/p/contributors.html','6296044239170440092');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '6296044239170440092', 'title': 'Bloodborne Wiki', 'url': 'https://www.bloodborne-wiki.com/p/contributors.html', 'canonicalUrl': 'https://www.bloodborne-wiki.com/p/contributors.html', 'homepageUrl': 'https://www.bloodborne-wiki.com/', 'searchUrl': 'https://www.bloodborne-wiki.com/search', 'canonicalHomepageUrl': 'https://www.bloodborne-wiki.com/', 'blogspotFaviconUrl': 'https://www.bloodborne-wiki.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': true, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Bloodborne Wiki - Atom\x22 href\x3d\x22https://www.bloodborne-wiki.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Bloodborne Wiki - RSS\x22 href\x3d\x22https://www.bloodborne-wiki.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Bloodborne Wiki - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/6296044239170440092/posts/default\x22 /\x3e\n', 'meTag': '', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'adsenseAutoAds': false, 'boqCommentIframeForm': true, 'loginRedirectParam': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/2f4ee5245a5a594b', 'plusOneApiSrc': 'https://apis.google.com/js/platform.js', 'disableGComments': true, 'interstitialAccepted': false, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 0, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'static_page', 'pageId': '1666166907644153280', 'pageName': 'Contributors', 'pageTitle': 'Bloodborne Wiki: Contributors'}}, {'name': 'features', 'data': {}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Contributors', 'description': ' Contributors Bloodborne Wiki  \xbb Contributors     Source \x26VerticalSeparator;  Edit  \x26VerticalSeparator;  Sitemap  \x26VerticalSeparator;  Licen...', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZFm6adMu9RJfS7ZnhAkdU6hx3AcyHA7hnfRm9aUzC-oo57oLbiCDUc73AfdwEyqyIZ8VLRTl7hvUHHywc1tZ_JuFms9gxLzyatE1j1nSUDvzSnWcNAnP1czHLfDgWwXUV7ez0hq0tzqhczVUQg4peXYik-Zai6evHsHUmDzU7P-EerjfGM4Ukd-aQgA/s1600/ToC_button.png', 'url': 'https://www.bloodborne-wiki.com/p/contributors.html', 'type': 'item', 'isSingleItem': true, 'isMultipleItems': false, 'isError': false, 'isPage': true, 'isPost': false, 'isHomepage': false, 'isArchive': false, 'isLabelSearch': false, 'pageId': 1666166907644153280}}]);
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/1246064851-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/3268905543-lightbox_bundle.css'}, 'displayModeFull'));
+
+
