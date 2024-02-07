@@ -4,23 +4,19 @@ import re
 
 class MulchSpider(scrapy.Spider):
     name = "mulch"
-    urls = ["https://www.bloodborne-wiki.com/p/story.html"]
+    urls = ["https://www.bloodborne-wiki.com/p/story.html",
+            "https://www.bloodborne-wiki.com/p/firearms.html"]
     count = 0
     link_extractor = LinkExtractor()
-    log = "" #tesing purposes
     text_out = ""
+    #implement visited links
 
 
 
     def start_requests(self):
         for url in self.urls:
-            yield scrapy.Request(url=url, callback=self.parse)
-            self.count = self.count =+ 1
-            self.log = self.log + "start request: " + url + "\n count: " + str(self.count) + "\n"
-
-            if self.count > 5:
-                break
-
+            yield scrapy.Request(url=url, callback=self.parse)    
+ 
 
     def parse(self, response):
         texts = response.xpath("//body//text()").getall()
@@ -28,61 +24,31 @@ class MulchSpider(scrapy.Spider):
         links_out = ""
 
 
-        
-
-
-
-        #record content ofcurrent node
-
-
-        #define how to filter text
-        texts = MulchSpider.cleanstring(texts)
-        texts = filter(lambda text: "maintenance" not in text, texts)
+        #record content of current node
+        texts = MulchSpider.cleanString(texts)
+        #texts = filter(lambda text: "vergil" in text, texts)  #define how to filter text
         self.text_out = self.text_out + "\n".join(texts)
-
-        
-    
-
 
         #search algortithm
         explored_links = []
 
         #explore current node
-        explored_links.append(self.urls[0])
-        self.log = self.log + "exploring:" + self.urls[0] + "\n\n" ##
-
         for link in links:
             if link.url not in self.urls:
                 self.urls.append(link.url)  
-                self.log = self.log + "found:" + link.url + "\n" ##
-
-        #remove self 
-        self.log = self.log + "frontier lengths" + str(len(self.urls)) + "\n" ##
-        if len(self.urls) == 0:
-            self.log = self.log + "search finished \n"
-            f = open("output.txt", "w", encoding="utf-8")
-            f.write(self.text_out)
-        else:
-            self.urls = self.urls[1:]
-            self.log = self.log + "removing:" + self.urls[0] + "\n\n" ##
-
-            #hault operation after scraping a given number of sites
-            if self.count > 10:
-                f = open("output.txt", "w", encoding="utf-8")
-                f.write(self.text_out)
-                return
-            yield scrapy.Request(url=self.urls[0], callback=self.parse)
-            self.log = self.log + "test yielding request: " + self.urls[0] + "\n"
-            self.text_out = self.text_out + "----------------------------new request----------------------------\n"
-            self.count = self.count + 1
-            self.log = self.log + "count: " + str(self.count) + "\n"
+        explored_links.append(self.urls[0])
 
 
-        f = open("output.txt", "w") #this is not writing
+            
+        if (len(self.urls) > 0 and self.count < 10):
+            self.text_out = self.text_out + "\n\n\n ----------------------------------------\nif condition met"
+            self.start_requests() #debugging.................
+            # self.urls = self.urls[1:]
+            # self.count = self.count + 1
+            # yield scrapy.Request(url=self.urls[0], callback=self.parse)
+
+        f = open("output.txt", "w", encoding="utf-8")
         f.write(self.text_out)
-
-        g = open("log.txt", "w")
-        g.write(self.log)
 
 
 
@@ -90,7 +56,7 @@ class MulchSpider(scrapy.Spider):
     #param: a list of strings
     #output: same list of string, normalized. 
     @classmethod
-    def cleanstring(cls, strings):
+    def cleanString(cls, strings):
         #format string properly
         
         #remove all \n, special characters, lowercase all
@@ -98,9 +64,19 @@ class MulchSpider(scrapy.Spider):
         for string in strings:
 
             string = string.replace('\n', ' ')
-            string=re.sub(r"\W+|_", " ", string) 
+            string = re.sub(r"\W+|_", " ", string) 
             string = string.lower()
             if any(character.isalnum() for character in string): #if string contain alphanumericals
                 new_strings.append(string)
 
         return new_strings
+    
+
+    #def yield request
+        #remove current node
+        #yielf request 
+        #count ++
+    def yieldRequest(self):
+        self.urls = self.urls[1:]
+        self.count = self.count + 1
+        yield scrapy.Request(url=self.urls[0], callback=self.parse) #this is the problem everything else is reached

@@ -3,7 +3,9 @@ current game version
 1 09
 patch live 
 dec 21 2015
+last server maintenance 
 april 13 2023
+next server maintenance 
 no scheduled
 server status 
 online
@@ -19,8 +21,8 @@ return to yharnam
 community event taking place from march 24th to april 7th
  ended 
 newest article
- jan 14 2024 
-unique items in chalice dungeons
+ feb 03 2024 
+full storage glitch
 general information
 home
 sitemap
@@ -548,13 +550,18 @@ home
  subscribe to 
 posts atom 
 window onload function document getelementbyid gsc i id1 placeholder search bloodborne wiki 
- window   wavt aouzoy59blqdqcousfttchia4dw3gduhsq 1706930138735  widgetmanager  init www blogger com rearrange blogid x3d6296044239170440092 www bloodborne wiki com p story html 6296044239170440092  widgetmanager  setdatacontext name blog data blogid 6296044239170440092 title bloodborne wiki url https www bloodborne wiki com p story html canonicalurl https www bloodborne wiki com p story html homepageurl https www bloodborne wiki com searchurl https www bloodborne wiki com search canonicalhomepageurl https www bloodborne wiki com blogspotfaviconurl https www bloodborne wiki com favicon ico bloggerurl https www blogger com hascustomdomain true httpsenabled true enabledcommentprofileimages true gplusviewtype filtered postmod adultcontent false analyticsaccountnumber encoding utf 8 locale en localeunderscoredelimited en languagedirection ltr isprivate false ismobile false ismobilerequest false mobileclass isprivateblog false isdynamicviewsavailable true feedlinks x3clink rel x3d x22alternate x22 type x3d x22application atom xml x22 title x3d x22bloodborne wiki atom x22 href x3d x22https www bloodborne wiki com feeds posts default x22 x3e n x3clink rel x3d x22alternate x22 type x3d x22application rss xml x22 title x3d x22bloodborne wiki rss x22 href x3d x22https www bloodborne wiki com feeds posts default alt x3drss x22 x3e n x3clink rel x3d x22service post x22 type x3d x22application atom xml x22 title x3d x22bloodborne wiki atom x22 href x3d x22https www blogger com feeds 6296044239170440092 posts default x22 x3e n metag adsensehostid ca host pub 1556223355139109 adsensehasads false adsenseautoads false boqcommentiframeform true loginredirectparam view dynamicviewscommentssrc www blogblog com dynamicviews 4224c15c4e7c9321 js comments js dynamicviewsscriptsrc www blogblog com dynamicviews a78904f6d935c498 plusoneapisrc https apis google com js platform js disablegcomments true interstitialaccepted false sharing platforms name get link key link sharemessage get link target name facebook key facebook sharemessage share to facebook target facebook name blogthis key blogthis sharemessage blogthis target blog name twitter key twitter sharemessage share to twitter target twitter name pinterest key pinterest sharemessage share to pinterest target pinterest name email key email sharemessage email target email disablegoogleplus true googleplussharebuttonwidth 0 googleplusbootstrap x3cscript type x3d x22text javascript x22 x3ewindow    gcfg x3d x27lang x27 x27en x27 x3c script x3e hascustomjumplinkmessage false jumplinkmessage read more pagetype static page pageid 2711499134989897017 pagename story pagetitle bloodborne wiki story name features data name messages data edit edit linkcopiedtoclipboard link copied to clipboard ok ok postlink post link name template data name custom localizedname custom isresponsive false isalternaterendering false iscustom true name view data classic name classic url view x3dclassic flipcard name flipcard url view x3dflipcard magazine name magazine url view x3dmagazine mosaic name mosaic url view x3dmosaic sidebar name sidebar url view x3dsidebar snapshot name snapshot url view x3dsnapshot timeslide name timeslide url view x3dtimeslide ismobile false title story description story bloodborne wiki xbb world xbb story source x26verticalseparator edit x26verticalseparator sitemap x26verticalseparator license p featuredimage https blogger googleusercontent com img b r29vz2xl avvxseizfm6admu9rjfs7znhakdu6hx3acyha7hnfrm9auzc oo57olbicduc73afdweyqyiz8vlrtl7hvuhhywc1tz jufms9gxlzyate1j1nsudvzsnwcnanp1czhlfdgwwxuv7ez0hq0tzqhczvuqg4pexyik zai6evhshumdzu7p eerjfgm4ukd aqga s1600 toc button png url https www bloodborne wiki com p story html type item issingleitem true ismultipleitems false iserror false ispage true ispost false ishomepage false isarchive false islabelsearch false pageid 2711499134989897017  widgetmanager  registerwidget  blogview new  widgetinfo blog1 main document getelementbyid blog1 cmtinteractionsenabled false lightboxenabled true lightboxmoduleurl https www blogger com static v1 jsbin 1246064851 lbx js lightboxcssurl https www blogger com static v1 v css 3268905543 lightbox bundle css displaymodefull ----------------------------new request----------------------------
- function var cx 009909572006487121327 bjvowdd9 aq var gcse document createelement script gcse type text javascript gcse async true gcse src https cse google com cse js cx cx var s document getelementsbytagname script 0 s parentnode insertbefore gcse s 
+ window   wavt aouzoy6ihgwlsjcjnxyy  lclpkvkp3jva 1707176142642  widgetmanager  init www blogger com rearrange blogid x3d6296044239170440092 www bloodborne wiki com p story html 6296044239170440092  widgetmanager  setdatacontext name blog data blogid 6296044239170440092 title bloodborne wiki url https www bloodborne wiki com p story html canonicalurl https www bloodborne wiki com p story html homepageurl https www bloodborne wiki com searchurl https www bloodborne wiki com search canonicalhomepageurl https www bloodborne wiki com blogspotfaviconurl https www bloodborne wiki com favicon ico bloggerurl https www blogger com hascustomdomain true httpsenabled true enabledcommentprofileimages true gplusviewtype filtered postmod adultcontent false analyticsaccountnumber encoding utf 8 locale en localeunderscoredelimited en languagedirection ltr isprivate false ismobile false ismobilerequest false mobileclass isprivateblog false isdynamicviewsavailable true feedlinks x3clink rel x3d x22alternate x22 type x3d x22application atom xml x22 title x3d x22bloodborne wiki atom x22 href x3d x22https www bloodborne wiki com feeds posts default x22 x3e n x3clink rel x3d x22alternate x22 type x3d x22application rss xml x22 title x3d x22bloodborne wiki rss x22 href x3d x22https www bloodborne wiki com feeds posts default alt x3drss x22 x3e n x3clink rel x3d x22service post x22 type x3d x22application atom xml x22 title x3d x22bloodborne wiki atom x22 href x3d x22https www blogger com feeds 6296044239170440092 posts default x22 x3e n metag adsensehostid ca host pub 1556223355139109 adsensehasads false adsenseautoads false boqcommentiframeform true loginredirectparam view dynamicviewscommentssrc www blogblog com dynamicviews 4224c15c4e7c9321 js comments js dynamicviewsscriptsrc www blogblog com dynamicviews a78904f6d935c498 plusoneapisrc https apis google com js platform js disablegcomments true interstitialaccepted false sharing platforms name get link key link sharemessage get link target name facebook key facebook sharemessage share to facebook target facebook name blogthis key blogthis sharemessage blogthis target blog name twitter key twitter sharemessage share to twitter target twitter name pinterest key pinterest sharemessage share to pinterest target pinterest name email key email sharemessage email target email disablegoogleplus true googleplussharebuttonwidth 0 googleplusbootstrap x3cscript type x3d x22text javascript x22 x3ewindow    gcfg x3d x27lang x27 x27en x27 x3c script x3e hascustomjumplinkmessage false jumplinkmessage read more pagetype static page pageid 2711499134989897017 pagename story pagetitle bloodborne wiki story name features data name messages data edit edit linkcopiedtoclipboard link copied to clipboard ok ok postlink post link name template data name custom localizedname custom isresponsive false isalternaterendering false iscustom true name view data classic name classic url view x3dclassic flipcard name flipcard url view x3dflipcard magazine name magazine url view x3dmagazine mosaic name mosaic url view x3dmosaic sidebar name sidebar url view x3dsidebar snapshot name snapshot url view x3dsnapshot timeslide name timeslide url view x3dtimeslide ismobile false title story description story bloodborne wiki xbb world xbb story source x26verticalseparator edit x26verticalseparator sitemap x26verticalseparator license p featuredimage https blogger googleusercontent com img b r29vz2xl avvxseizfm6admu9rjfs7znhakdu6hx3acyha7hnfrm9auzc oo57olbicduc73afdweyqyiz8vlrtl7hvuhhywc1tz jufms9gxlzyate1j1nsudvzsnwcnanp1czhlfdgwwxuv7ez0hq0tzqhczvuqg4pexyik zai6evhshumdzu7p eerjfgm4ukd aqga s1600 toc button png url https www bloodborne wiki com p story html type item issingleitem true ismultipleitems false iserror false ispage true ispost false ishomepage false isarchive false islabelsearch false pageid 2711499134989897017  widgetmanager  registerwidget  blogview new  widgetinfo blog1 main document getelementbyid blog1 cmtinteractionsenabled false lightboxenabled true lightboxmoduleurl https www blogger com static v1 jsbin 1246064851 lbx js lightboxcssurl https www blogger com static v1 v css 3268905543 lightbox bundle css displaymodefull 
+
+
+ ----------------------------------------
+if condition met function var cx 009909572006487121327 bjvowdd9 aq var gcse document createelement script gcse type text javascript gcse async true gcse src https cse google com cse js cx cx var s document getelementsbytagname script 0 s parentnode insertbefore gcse s 
 current game version 
 1 09
 patch live 
 dec 21 2015
+last server maintenance 
 april 13 2023
+next server maintenance 
 no scheduled
 server status 
 online
@@ -570,8 +577,8 @@ return to yharnam
 community event taking place from march 24th to april 7th
  ended 
 newest article
- jan 14 2024 
-unique items in chalice dungeons
+ feb 03 2024 
+full storage glitch
 general information
 home
 sitemap
@@ -612,107 +619,10 @@ bloodborne the old hunters collector s edition guides
 more
 bloodborne discord
 tomb prospectors discord
- index 
-index page
-bloodborne wiki
- index page
- source 
- verticalseparator 
-edit
- verticalseparator 
-sitemap
- verticalseparator 
-license
-page revision 67 last edited 01 july 2017
-table of contents
-consumables
-materials
-key items
-weapons
-attire
-unique blood gems
-caryll runes
-chalices
- consumables 
- materials 
- key items 
- weapons 
- attire 
- unique blood gems 
- caryll runes 
- chalices 
-home
- subscribe to 
-posts atom 
-window onload function document getelementbyid gsc i id1 placeholder search bloodborne wiki 
- window   wavt aouzoy6k dewqgpmuell  s yvf0gkfkqa 1706930138978  widgetmanager  init www blogger com rearrange blogid x3d6296044239170440092 www bloodborne wiki com p index html 6296044239170440092  widgetmanager  setdatacontext name blog data blogid 6296044239170440092 title bloodborne wiki url https www bloodborne wiki com p index html canonicalurl https www bloodborne wiki com p index html homepageurl https www bloodborne wiki com searchurl https www bloodborne wiki com search canonicalhomepageurl https www bloodborne wiki com blogspotfaviconurl https www bloodborne wiki com favicon ico bloggerurl https www blogger com hascustomdomain true httpsenabled true enabledcommentprofileimages true gplusviewtype filtered postmod adultcontent false analyticsaccountnumber encoding utf 8 locale en localeunderscoredelimited en languagedirection ltr isprivate false ismobile false ismobilerequest false mobileclass isprivateblog false isdynamicviewsavailable true feedlinks x3clink rel x3d x22alternate x22 type x3d x22application atom xml x22 title x3d x22bloodborne wiki atom x22 href x3d x22https www bloodborne wiki com feeds posts default x22 x3e n x3clink rel x3d x22alternate x22 type x3d x22application rss xml x22 title x3d x22bloodborne wiki rss x22 href x3d x22https www bloodborne wiki com feeds posts default alt x3drss x22 x3e n x3clink rel x3d x22service post x22 type x3d x22application atom xml x22 title x3d x22bloodborne wiki atom x22 href x3d x22https www blogger com feeds 6296044239170440092 posts default x22 x3e n metag adsensehostid ca host pub 1556223355139109 adsensehasads false adsenseautoads false boqcommentiframeform true loginredirectparam view dynamicviewscommentssrc www blogblog com dynamicviews 4224c15c4e7c9321 js comments js dynamicviewsscriptsrc www blogblog com dynamicviews a78904f6d935c498 plusoneapisrc https apis google com js platform js disablegcomments true interstitialaccepted false sharing platforms name get link key link sharemessage get link target name facebook key facebook sharemessage share to facebook target facebook name blogthis key blogthis sharemessage blogthis target blog name twitter key twitter sharemessage share to twitter target twitter name pinterest key pinterest sharemessage share to pinterest target pinterest name email key email sharemessage email target email disablegoogleplus true googleplussharebuttonwidth 0 googleplusbootstrap x3cscript type x3d x22text javascript x22 x3ewindow    gcfg x3d x27lang x27 x27en x27 x3c script x3e hascustomjumplinkmessage false jumplinkmessage read more pagetype static page pageid 1602870735277440223 pagename index pagetitle bloodborne wiki index name features data name messages data edit edit linkcopiedtoclipboard link copied to clipboard ok ok postlink post link name template data name custom localizedname custom isresponsive false isalternaterendering false iscustom true name view data classic name classic url view x3dclassic flipcard name flipcard url view x3dflipcard magazine name magazine url view x3dmagazine mosaic name mosaic url view x3dmosaic sidebar name sidebar url view x3dsidebar snapshot name snapshot url view x3dsnapshot timeslide name timeslide url view x3dtimeslide ismobile false title index description index page bloodborne wiki xbb index page source x26verticalseparator edit x26verticalseparator sitemap x26verticalseparator license featuredimage https blogger googleusercontent com img b r29vz2xl avvxseizfm6admu9rjfs7znhakdu6hx3acyha7hnfrm9auzc oo57olbicduc73afdweyqyiz8vlrtl7hvuhhywc1tz jufms9gxlzyate1j1nsudvzsnwcnanp1czhlfdgwwxuv7ez0hq0tzqhczvuqg4pexyik zai6evhshumdzu7p eerjfgm4ukd aqga s1600 toc button png url https www bloodborne wiki com p index html type item issingleitem true ismultipleitems false iserror false ispage true ispost false ishomepage false isarchive false islabelsearch false pageid 1602870735277440223  widgetmanager  registerwidget  blogview new  widgetinfo blog1 main document getelementbyid blog1 cmtinteractionsenabled false lightboxenabled true lightboxmoduleurl https www blogger com static v1 jsbin 1246064851 lbx js lightboxcssurl https www blogger com static v1 v css 3268905543 lightbox bundle css displaymodefull ----------------------------new request----------------------------
- function var cx 009909572006487121327 bjvowdd9 aq var gcse document createelement script gcse type text javascript gcse async true gcse src https cse google com cse js cx cx var s document getelementsbytagname script 0 s parentnode insertbefore gcse s 
-current game version 
-1 09
-patch live 
-dec 21 2015
-april 13 2023
-no scheduled
-server status 
-online
-index
-contact
-chat
-notes
-contributors
-faqs
-links tools
-return to yharnam 
-2023
-community event taking place from march 24th to april 7th
- ended 
-newest article
- jan 14 2024 
-unique items in chalice dungeons
-general information
-home
-sitemap
-expansion
-reviews sales
-game patches
-game mechanics
-controls
-your character
-character classes
-character stats
-character builds
-covenants
-sliders
-equipment
-weapons
+ firearms 
 firearms
-shields torches
-armor
-items
-gems materials
-the world
-bosses
-enemies
-merchants
-npcs
-locations
-chalice dungeons
-other information
-world progression
-farming
-trophies
-credits
-art of bloodborne
-unused content
-bloodborne the old hunters collector s edition guides
- future press gone behind the scenes with bloodborne s creators to unearth every secret hidden within the mysterious city of yharnam your hunt through the streets of yharnam will be your most exciting and rewarding journey yet and the road will be hard but fear not these guides are your key to mastering the merciless challenges and navigating the darkest depths of the city 
-more
-bloodborne discord
-tomb prospectors discord
- contact 
-contact
 bloodborne wiki
- contact
+ firearms
  source 
  verticalseparator 
 edit
@@ -720,2028 +630,398 @@ edit
 sitemap
  verticalseparator 
 license
-page revision 29 last edited 21 jan 2023
+page revision 29 last edited 12 aug 2020
 table of contents
 basic information
-short history of bloodborne wiki
-disclaimer
+left hand weapons
+the old hunters expansion left hand weapons
+firearm data
+frame data
+key
+firearms are wielded with the left hand and employed in beast hunting 
 basic information
-if you have anything on your mind you can use 
-chat
- here on wiki if you are not comfortable with it contact me from one of these platforms 
- 06 12 2016 
-currently active chat
-discord nightmare inhabited by hunters from r bloodborne
-want to edit 
-this small community wiki is due to its format solely edited by me meph if you found any error or would like to add anything please contact me by any means included below thank you it is greatly appreciated 
-via email
-via wikidot pm
-via youtube pm
-via discord pm
-via reddit pm
-paypal
-ko fi
-mephistophea email cz
-wikidot forums
- member mephistophelea
-wikidot wiki
- member meppu
-profile
-meph 1223
-profile
-kofiwidget2 init support me on ko fi b39050 d1d3i0uwt kofiwidget2 draw 
- paypal account above was set up by the community and is run by my friend in order to protect my privacy thank you for considering but please rather support great minds behind this game from software and japan studio 
-short history of bloodborne wiki
-on 30th may 2014 i caught and watched with interest the project beast leaked material but it weren t till 9th june 2014 when project beast was revealed as bloodborne to the public that i started out of sheer awe 
-plus from software and japan studio joined forces again first time after demon s souls
- to compile thread on demon s souls wikidot forums demonssouls info internet exploded with rumours and it seemed information about bloodborne was scattered all over the place felt limitations of forum thread were reached at the time so on 11th june 2014 blog for bloodborne news 
-bloodbornenews blogspot com
- was created where i gathered and tried to verify every info that was out there until very close to the release blog was archived on 19th march 2015 
-prior to that i definitely exhausted options of mere blog and was encouraged to continue with bloodborne info collecting especially while coming from years of experience from demon s souls wikidot wiki i believed i had what it takes to go out and create own wiki how i always envisioned it 
-more visually pleasing more freedom on how to present information and no ads
-and so on 22nd february 2015 bloodborne wiki com was created to paraphrase i was not prepared and first months after the release was bottleneck personal hell of mine just feeding wiki with information up to 16 hours a day it was probably up to one year or so when i felt i could raise my head and start enjoying it ever since i worked with glee and collaborated with countless of very talented and passionate members of this community 
-would i start this project again gut reaction would be probably not but yes such project is too much for one person to create but i am enormously satisfied of what this passion project become and journey of getting there was definitely worth it 
-i would like to express my gratitude to the community for the ride 
-disclaimer
-bloodborne and all bloodborne art images and lore are copyrighted by sony entertainment inc and fromsoftware inc 
-all other content on this site is copyright by the respective authors and is available under 
-creative commons attribution sharealike 3 0 license
-this web site is fan made and is neither endorsed by nor associated with sony entertainment inc and fromsoftware inc 
-home
- subscribe to 
-posts atom 
-window onload function document getelementbyid gsc i id1 placeholder search bloodborne wiki 
- window   wavt aouzoy53 b5myxxl0opejcbwlccubcgttg 1706930171829  widgetmanager  init www blogger com rearrange blogid x3d6296044239170440092 www bloodborne wiki com p contact html 6296044239170440092  widgetmanager  setdatacontext name blog data blogid 6296044239170440092 title bloodborne wiki url https www bloodborne wiki com p contact html canonicalurl https www bloodborne wiki com p contact html homepageurl https www bloodborne wiki com searchurl https www bloodborne wiki com search canonicalhomepageurl https www bloodborne wiki com blogspotfaviconurl https www bloodborne wiki com favicon ico bloggerurl https www blogger com hascustomdomain true httpsenabled true enabledcommentprofileimages true gplusviewtype filtered postmod adultcontent false analyticsaccountnumber encoding utf 8 locale en localeunderscoredelimited en languagedirection ltr isprivate false ismobile false ismobilerequest false mobileclass isprivateblog false isdynamicviewsavailable true feedlinks x3clink rel x3d x22alternate x22 type x3d x22application atom xml x22 title x3d x22bloodborne wiki atom x22 href x3d x22https www bloodborne wiki com feeds posts default x22 x3e n x3clink rel x3d x22alternate x22 type x3d x22application rss xml x22 title x3d x22bloodborne wiki rss x22 href x3d x22https www bloodborne wiki com feeds posts default alt x3drss x22 x3e n x3clink rel x3d x22service post x22 type x3d x22application atom xml x22 title x3d x22bloodborne wiki atom x22 href x3d x22https www blogger com feeds 6296044239170440092 posts default x22 x3e n metag adsensehostid ca host pub 1556223355139109 adsensehasads false adsenseautoads false boqcommentiframeform true loginredirectparam view dynamicviewscommentssrc www blogblog com dynamicviews 4224c15c4e7c9321 js comments js dynamicviewsscriptsrc www blogblog com dynamicviews a78904f6d935c498 plusoneapisrc https apis google com js platform js disablegcomments true interstitialaccepted false sharing platforms name get link key link sharemessage get link target name facebook key facebook sharemessage share to facebook target facebook name blogthis key blogthis sharemessage blogthis target blog name twitter key twitter sharemessage share to twitter target twitter name pinterest key pinterest sharemessage share to pinterest target pinterest name email key email sharemessage email target email disablegoogleplus true googleplussharebuttonwidth 0 googleplusbootstrap x3cscript type x3d x22text javascript x22 x3ewindow    gcfg x3d x27lang x27 x27en x27 x3c script x3e hascustomjumplinkmessage false jumplinkmessage read more pagetype static page pageid 7819281959791816369 pagename contact pagetitle bloodborne wiki contact name features data name messages data edit edit linkcopiedtoclipboard link copied to clipboard ok ok postlink post link name template data name custom localizedname custom isresponsive false isalternaterendering false iscustom true name view data classic name classic url view x3dclassic flipcard name flipcard url view x3dflipcard magazine name magazine url view x3dmagazine mosaic name mosaic url view x3dmosaic sidebar name sidebar url view x3dsidebar snapshot name snapshot url view x3dsnapshot timeslide name timeslide url view x3dtimeslide ismobile false title contact description contact bloodborne wiki xbb contact source x26verticalseparator edit x26verticalseparator sitemap x26verticalseparator license page r featuredimage https blogger googleusercontent com img b r29vz2xl avvxseizfm6admu9rjfs7znhakdu6hx3acyha7hnfrm9auzc oo57olbicduc73afdweyqyiz8vlrtl7hvuhhywc1tz jufms9gxlzyate1j1nsudvzsnwcnanp1czhlfdgwwxuv7ez0hq0tzqhczvuqg4pexyik zai6evhshumdzu7p eerjfgm4ukd aqga s1600 toc button png url https www bloodborne wiki com p contact html type item issingleitem true ismultipleitems false iserror false ispage true ispost false ishomepage false isarchive false islabelsearch false pageid 7819281959791816369  widgetmanager  registerwidget  blogview new  widgetinfo blog1 main document getelementbyid blog1 cmtinteractionsenabled false lightboxenabled true lightboxmoduleurl https www blogger com static v1 jsbin 1246064851 lbx js lightboxcssurl https www blogger com static v1 v css 3268905543 lightbox bundle css displaymodefull ----------------------------new request----------------------------
- function var cx 009909572006487121327 bjvowdd9 aq var gcse document createelement script gcse type text javascript gcse async true gcse src https cse google com cse js cx cx var s document getelementsbytagname script 0 s parentnode insertbefore gcse s 
-current game version 
-1 09
-patch live 
-dec 21 2015
-april 13 2023
-no scheduled
-server status 
-online
-index
-contact
-chat
-notes
-contributors
-faqs
-links tools
-return to yharnam 
-2023
-community event taking place from march 24th to april 7th
- ended 
-newest article
- jan 14 2024 
-unique items in chalice dungeons
-general information
-home
-sitemap
-expansion
-reviews sales
-game patches
-game mechanics
-controls
-your character
-character classes
-character stats
-character builds
-covenants
-sliders
-equipment
-weapons
-firearms
-shields torches
-armor
-items
-gems materials
-the world
-bosses
-enemies
-merchants
-npcs
-locations
-chalice dungeons
-other information
-world progression
-farming
-trophies
-credits
-art of bloodborne
-unused content
-bloodborne the old hunters collector s edition guides
- future press gone behind the scenes with bloodborne s creators to unearth every secret hidden within the mysterious city of yharnam your hunt through the streets of yharnam will be your most exciting and rewarding journey yet and the road will be hard but fear not these guides are your key to mastering the merciless challenges and navigating the darkest depths of the city 
-more
-bloodborne discord
-tomb prospectors discord
- chat 
-home
- subscribe to 
-posts atom 
-chat
-bloodborne wiki
- chat
- source 
-edit
-sitemap
-license
-page revision 32 last edited 05 aug 2020
-discussion
- 05 08 2020 
-currently active chat
-discord group inhabited by hunters from r bloodborne
- 05 08 2020 
-currently active chat
-discord group inhabited by prospectors from r tombprospectors
-reddit com r bloodborne
- bloodborne official subreddit with over 200k members 
-reddit com r huntersbell
- hunter s bell the subreddit for coordinated multiplayer matchmaking for the ps4 exclusive bloodborne 
-reddit com r tombprospectors
- tomb prospectors subreddit dedicated to the study and exploration of root chalice dungeons 
- handle bloodborne wiki arch js styles a 17181a c c3c3c3 d a18148 e 282f39 f 40 g c3c3c3 i 7 j c3c3c3 k c8c8c8 l 0d0d0d m c8c8c8 p 9 99 q 0d0d0d t 0 sba 48 surl 0 cnrs 0 47 
-wiki chat is no longer moderated and relevant if you want to leave message 
-please polite
- feel free to do so if you want to contact admin use the 
-contact
- wiki page if you need any help or just want to chat bloodborne use the active links at the top of this page thank you 
-window onload function document getelementbyid gsc i id1 placeholder search bloodborne wiki 
- window   wavt aouzoy47qbku0fredoiv0rto kkzu9apeg 1706930172253  widgetmanager  init www blogger com rearrange blogid x3d6296044239170440092 www bloodborne wiki com p chat html 6296044239170440092  widgetmanager  setdatacontext name blog data blogid 6296044239170440092 title bloodborne wiki url https www bloodborne wiki com p chat html canonicalurl https www bloodborne wiki com p chat html homepageurl https www bloodborne wiki com searchurl https www bloodborne wiki com search canonicalhomepageurl https www bloodborne wiki com blogspotfaviconurl https www bloodborne wiki com favicon ico bloggerurl https www blogger com hascustomdomain true httpsenabled true enabledcommentprofileimages true gplusviewtype filtered postmod adultcontent false analyticsaccountnumber encoding utf 8 locale en localeunderscoredelimited en languagedirection ltr isprivate false ismobile false ismobilerequest false mobileclass isprivateblog false isdynamicviewsavailable true feedlinks x3clink rel x3d x22alternate x22 type x3d x22application atom xml x22 title x3d x22bloodborne wiki atom x22 href x3d x22https www bloodborne wiki com feeds posts default x22 x3e n x3clink rel x3d x22alternate x22 type x3d x22application rss xml x22 title x3d x22bloodborne wiki rss x22 href x3d x22https www bloodborne wiki com feeds posts default alt x3drss x22 x3e n x3clink rel x3d x22service post x22 type x3d x22application atom xml x22 title x3d x22bloodborne wiki atom x22 href x3d x22https www blogger com feeds 6296044239170440092 posts default x22 x3e n metag adsensehostid ca host pub 1556223355139109 adsensehasads false adsenseautoads false boqcommentiframeform true loginredirectparam view dynamicviewscommentssrc www blogblog com dynamicviews 4224c15c4e7c9321 js comments js dynamicviewsscriptsrc www blogblog com dynamicviews a78904f6d935c498 plusoneapisrc https apis google com js platform js disablegcomments true interstitialaccepted false sharing platforms name get link key link sharemessage get link target name facebook key facebook sharemessage share to facebook target facebook name blogthis key blogthis sharemessage blogthis target blog name twitter key twitter sharemessage share to twitter target twitter name pinterest key pinterest sharemessage share to pinterest target pinterest name email key email sharemessage email target email disablegoogleplus true googleplussharebuttonwidth 0 googleplusbootstrap x3cscript type x3d x22text javascript x22 x3ewindow    gcfg x3d x27lang x27 x27en x27 x3c script x3e hascustomjumplinkmessage false jumplinkmessage read more pagetype static page pageid 2331980798278061729 pagename chat pagetitle bloodborne wiki chat name features data name messages data edit edit linkcopiedtoclipboard link copied to clipboard ok ok postlink post link name template data name custom localizedname custom isresponsive false isalternaterendering false iscustom true name view data classic name classic url view x3dclassic flipcard name flipcard url view x3dflipcard magazine name magazine url view x3dmagazine mosaic name mosaic url view x3dmosaic sidebar name sidebar url view x3dsidebar snapshot name snapshot url view x3dsnapshot timeslide name timeslide url view x3dtimeslide ismobile false title chat description bloodborne small dedicated community wiki url https www bloodborne wiki com p chat html type item issingleitem true ismultipleitems false iserror false ispage true ispost false ishomepage false isarchive false islabelsearch false pageid 2331980798278061729  widgetmanager  registerwidget  blogview new  widgetinfo blog1 main document getelementbyid blog1 cmtinteractionsenabled false lightboxenabled true lightboxmoduleurl https www blogger com static v1 jsbin 1246064851 lbx js lightboxcssurl https www blogger com static v1 v css 3268905543 lightbox bundle css displaymodefull ----------------------------new request----------------------------
- function var cx 009909572006487121327 bjvowdd9 aq var gcse document createelement script gcse type text javascript gcse async true gcse src https cse google com cse js cx cx var s document getelementsbytagname script 0 s parentnode insertbefore gcse s 
-current game version 
-1 09
-patch live 
-dec 21 2015
-april 13 2023
-no scheduled
-server status 
-online
-index
-contact
-chat
-notes
-contributors
-faqs
-links tools
-return to yharnam 
-2023
-community event taking place from march 24th to april 7th
- ended 
-newest article
- jan 14 2024 
-unique items in chalice dungeons
-general information
-home
-sitemap
-expansion
-reviews sales
-game patches
-game mechanics
-controls
-your character
-character classes
-character stats
-character builds
-covenants
-sliders
-equipment
-weapons
-firearms
-shields torches
-armor
-items
-gems materials
-the world
-bosses
-enemies
-merchants
-npcs
-locations
-chalice dungeons
-other information
-world progression
-farming
-trophies
-credits
-art of bloodborne
-unused content
-bloodborne the old hunters collector s edition guides
- future press gone behind the scenes with bloodborne s creators to unearth every secret hidden within the mysterious city of yharnam your hunt through the streets of yharnam will be your most exciting and rewarding journey yet and the road will be hard but fear not these guides are your key to mastering the merciless challenges and navigating the darkest depths of the city 
-more
-bloodborne discord
-tomb prospectors discord
- notes 
-notes
-bloodborne wiki
- notes
- source 
- verticalseparator 
-edit
- verticalseparator 
-sitemap
- verticalseparator 
-license
-page revision 97 last edited 09 may 2020
-table of contents
-need testing
-implement template for strategy sections
-need testing
-notes from your notebook only show up when the character who placed them is currently online 
-tested false
-test if all npcs drop blood dreg if you have corruption caryll oath rune equipped 
-done
-test non milkweed parasite damage multipliers 
-done
-figure out blood gems selling price at bath messengers shop 
-test damage blocked with blocking moves of lhb and kirkhammer 
- test eileen the crow at the end of her bad ending in final showdown in grand cathedral if she is attracted to pungent blood cocktail 
-done 
-does gilbert s beast form counts as npc test with cooperator during blood moon leave cleric beast alive 
- plus his hp and be values in ng 
-confirmed
-est if special ritekeeper s buff affect the quality of dropped gems in any way 
-test plunging attack properties for each weapon 
-winter lantern blood gems drop table
-done
- giant fishmen in fishing hamlet can drop bloodtinge gems
-confirmed
-l4 gems for a given boss will drop better gems or will more reliably drop r20s than the same boss on layer 3
-bone marrow ash buff damage values
-done 
-figure out exact values of downscaling when summoning through password outside of summoning range 
-test if not obtaining the bloody ribbon will affect the spawn of older sister in canal residence in central yharnam
-tested
- it doesn t
-requirements on becoming addled with blood for purposes of hunter of hunters covenant 
-pungent blood cocktail works on 
-done 
-shaman bone blade not affected 
-done 
-carrion crows don t take fall damage
-alfred can be summoned to the cleric beast fight but wont help you with bsb if you do 
-alfred s summon disappears from the blood starved beast if you kill amelia 
-partially confirmed
- alfred s sign disappears when time shifts to night 
-alfred if you are a vileblood he will be a purple phantom and attack you as well 
-old hunter summons gascoigne and alfred hp in ng 
-father gascoigne does not fill a summon slot if he is summoned first it is still possible to summon two players allowing you to tackle this boss with a four man team 
-henryk summon if eileen dies fighting him and you kill him his summon signs in forbidden woods and byrgenwerth will not appear 
-winter lantern if they do not notice you a hunter will remain unaffected by frenzy blue elixir s are very useful for this 
-confirmed
-rom may irregularly get distracted when a player uses either the music box or the shining coins 
-if maria visceral attacks you and you are guaranteed to die she will kiss you just before disemboweling you
-insight shop upon starting new game any armors that were made available in the first playthrough will be restocked despite the fact that all the characters they belong to are revived 
-confirmed
-brain of mensis not dropping living string when killing it with cooperator landing final blow 
-confirmed
-summoning others who have weapons like beast claw unlocks it in host s vendor
-tested
-it turns out that if you ring your beckoning bell in the hunter s dream need to unlock gehrman mp fight and a person you summon has a beast claw equipped it ll unlock the beast claw in your shop this only works in the hunter s dream and it doesn t work for any other weapon or weapon variants lost beast claw doesn t unlock the lost version in host s shop for instance ty tsmp
-implement template for strategy sections
-strategy sections should include the following feel free to add or subtract subsections depending on relevance on a page by page basis 
-dodging and blocking explanation of how to dodge and how when blocking is viable 
-environment how the environment can be used to the players advantage ie exploding barrels and sconces 
-melee can include critical damage subsection if need be 
-ranged
-status effect damage if things like poison can be helpful and ways to achieve it 
-stealth and diversion 
-co op information like if npc phantoms are available and if there are unique strats to co op 
-any strategies that fall under one of these categories should not have its own strategy subsection and should be incorporated into one of the above this will make the strategy sections more cohesive and organized 
-home
- subscribe to 
-posts atom 
-window onload function document getelementbyid gsc i id1 placeholder search bloodborne wiki 
- window   wavt aouzoy7v3l89p9z2ifpals7srqexpracqw 1706930172721  widgetmanager  init www blogger com rearrange blogid x3d6296044239170440092 www bloodborne wiki com p notes html 6296044239170440092  widgetmanager  setdatacontext name blog data blogid 6296044239170440092 title bloodborne wiki url https www bloodborne wiki com p notes html canonicalurl https www bloodborne wiki com p notes html homepageurl https www bloodborne wiki com searchurl https www bloodborne wiki com search canonicalhomepageurl https www bloodborne wiki com blogspotfaviconurl https www bloodborne wiki com favicon ico bloggerurl https www blogger com hascustomdomain true httpsenabled true enabledcommentprofileimages true gplusviewtype filtered postmod adultcontent false analyticsaccountnumber encoding utf 8 locale en localeunderscoredelimited en languagedirection ltr isprivate false ismobile false ismobilerequest false mobileclass isprivateblog false isdynamicviewsavailable true feedlinks x3clink rel x3d x22alternate x22 type x3d x22application atom xml x22 title x3d x22bloodborne wiki atom x22 href x3d x22https www bloodborne wiki com feeds posts default x22 x3e n x3clink rel x3d x22alternate x22 type x3d x22application rss xml x22 title x3d x22bloodborne wiki rss x22 href x3d x22https www bloodborne wiki com feeds posts default alt x3drss x22 x3e n x3clink rel x3d x22service post x22 type x3d x22application atom xml x22 title x3d x22bloodborne wiki atom x22 href x3d x22https www blogger com feeds 6296044239170440092 posts default x22 x3e n metag adsensehostid ca host pub 1556223355139109 adsensehasads false adsenseautoads false boqcommentiframeform true loginredirectparam view dynamicviewscommentssrc www blogblog com dynamicviews 4224c15c4e7c9321 js comments js dynamicviewsscriptsrc www blogblog com dynamicviews a78904f6d935c498 plusoneapisrc https apis google com js platform js disablegcomments true interstitialaccepted false sharing platforms name get link key link sharemessage get link target name facebook key facebook sharemessage share to facebook target facebook name blogthis key blogthis sharemessage blogthis target blog name twitter key twitter sharemessage share to twitter target twitter name pinterest key pinterest sharemessage share to pinterest target pinterest name email key email sharemessage email target email disablegoogleplus true googleplussharebuttonwidth 0 googleplusbootstrap x3cscript type x3d x22text javascript x22 x3ewindow    gcfg x3d x27lang x27 x27en x27 x3c script x3e hascustomjumplinkmessage false jumplinkmessage read more pagetype static page pageid 8257283723829144130 pagename notes pagetitle bloodborne wiki notes name features data name messages data edit edit linkcopiedtoclipboard link copied to clipboard ok ok postlink post link name template data name custom localizedname custom isresponsive false isalternaterendering false iscustom true name view data classic name classic url view x3dclassic flipcard name flipcard url view x3dflipcard magazine name magazine url view x3dmagazine mosaic name mosaic url view x3dmosaic sidebar name sidebar url view x3dsidebar snapshot name snapshot url view x3dsnapshot timeslide name timeslide url view x3dtimeslide ismobile false title notes description notes bloodborne wiki xbb notes source x26verticalseparator edit x26verticalseparator sitemap x26verticalseparator license page revis featuredimage https blogger googleusercontent com img b r29vz2xl avvxseizfm6admu9rjfs7znhakdu6hx3acyha7hnfrm9auzc oo57olbicduc73afdweyqyiz8vlrtl7hvuhhywc1tz jufms9gxlzyate1j1nsudvzsnwcnanp1czhlfdgwwxuv7ez0hq0tzqhczvuqg4pexyik zai6evhshumdzu7p eerjfgm4ukd aqga s1600 toc button png url https www bloodborne wiki com p notes html type item issingleitem true ismultipleitems false iserror false ispage true ispost false ishomepage false isarchive false islabelsearch false pageid 8257283723829144130  widgetmanager  registerwidget  blogview new  widgetinfo blog1 main document getelementbyid blog1 cmtinteractionsenabled false lightboxenabled true lightboxmoduleurl https www blogger com static v1 jsbin 1246064851 lbx js lightboxcssurl https www blogger com static v1 v css 3268905543 lightbox bundle css displaymodefull ----------------------------new request----------------------------
- function var cx 009909572006487121327 bjvowdd9 aq var gcse document createelement script gcse type text javascript gcse async true gcse src https cse google com cse js cx cx var s document getelementsbytagname script 0 s parentnode insertbefore gcse s 
-current game version 
-1 09
-patch live 
-dec 21 2015
-april 13 2023
-no scheduled
-server status 
-online
-index
-contact
-chat
-notes
-contributors
-faqs
-links tools
-return to yharnam 
-2023
-community event taking place from march 24th to april 7th
- ended 
-newest article
- jan 14 2024 
-unique items in chalice dungeons
-general information
-home
-sitemap
-expansion
-reviews sales
-game patches
-game mechanics
-controls
-your character
-character classes
-character stats
-character builds
-covenants
-sliders
-equipment
-weapons
-firearms
-shields torches
-armor
-items
-gems materials
-the world
-bosses
-enemies
-merchants
-npcs
-locations
-chalice dungeons
-other information
-world progression
-farming
-trophies
-credits
-art of bloodborne
-unused content
-bloodborne the old hunters collector s edition guides
- future press gone behind the scenes with bloodborne s creators to unearth every secret hidden within the mysterious city of yharnam your hunt through the streets of yharnam will be your most exciting and rewarding journey yet and the road will be hard but fear not these guides are your key to mastering the merciless challenges and navigating the darkest depths of the city 
-more
-bloodborne discord
-tomb prospectors discord
- contributors 
-contributors
-bloodborne wiki
- contributors
- source 
- verticalseparator 
-edit
- verticalseparator 
-sitemap
- verticalseparator 
-license
-page revision 31 last edited 03 feb 2022
-table of contents
-bloodborne the old hunters collector s edition guides
-my thanks
-bloodborne the old hunters collector s edition guides
-and so the nightly hunt begins 
-from the same team that created the critically acclaimed dark souls ii guide comes a new invaluable treasure we ve gone behind the scenes with bloodborne s creators to unearth every secret hidden within the mysterious city of yharnam your hunt through the streets of yharnam will be your most exciting and rewarding journey yet and the road will be hard but fear not this guide is your key to mastering the merciless challenges and navigating the darkest depths of the city 
-more information about the guides on 
-future press
-official website 
-big thanks to future press and people working on bloodborne guide their huge effort and dedication provided outstanding information base for whole community 
-special thanks to marcus aka epicnamebro his 
-youtube channel
- and franz aka a german spy his 
-youtube channel
- for all their hard work they put into this 
- my thanks 
-biggest thanks belongs to the vibrant community which surrounded bloodborne from the moment it was announced any project such as this couldn t be made without passion and countless hours of grind from people who genuinely love this game be it lore analytists pvp duelers dataminers or discord communities thank you for reading bloodborne wiki and most importantly keep enjoying the game 
-praske
-thank you for your great work on spreadsheets of datamined values for all enemies bosses and npcs especially 
-bb calculator
-sophie pilbeam jsf 
-thank you for your tireless support on about anything concerning the wiki 
-lance
-datamining guru make sure to check his 
-yt channel
-dranger
-his research into chalice dungeons and blood gems value is beyond measure 
-foxyhooligans
-his research into game mechanics from datamined files is incredible thank you 
-claude
-helping on many occasions especially with 1 00 game version comparisons 
-mug
-thank you for all datamined stuff especially for voice actors stuff 
-altair
-great creator of valuable guides of all kind 
-scorched knight
-creator of all awesome pvp techs for the wiki 
-kou kagerou
-passionate supporter and gatherer of bb lore all around 
-astral lace
-datamining ingame models has never been this exciting 
-signaltonsalat
-thank you for helping the technical side of this wiki 
-dropoff
-sharing his datamined map files and models thank you 
-discord research hall
-bloodborne discord
- channel with enough kind ppl and bb enthusiasts who help to conduct complex wiki research with naming a few grunt slayer renascent fire jake juli valentine artirian legacy and refrigerator 
-morosnyx
-tomb prospector admin who provides all kind of chalice dungeon oddities to the wiki be sure to visit their 
- r tombprospectors 
- subreddit 
-novathelonehunter
-reddit researcher who provided plethora of thorough research in bloodborne 
-xtrinx
-tomb prospector collecting hard data especially on illusory walls and beast possessed soul vs the world shenenigans 
-romanticore
-speedrunner helping us understand how to perform all kind of skips in world of yharnam his 
-yt channel
- is must see 
-aladore 384
-sparring partner for all kind of tests and chalice dungeon research be sure to check his 
-yt channel
-shadowfangs99
-redditor who in search for his comics data dived deep into bloodborne timeline and other oddities 
-delsinsfire
-thank you it s great addition of stylized gifs for hunters tools and locations gallery make sure to check 
-delsinsfire s blog
-jaushelberg
-taking role of photographer for wiki s galleries observing yharnamites in their natural habitat jaushelberg s 
-yt channel
-martin hernik
-taking up graphic s role in several wiki s projects especially with new icons 
-valkyrieprofail
-our blood gems and chalice dungeons guru helping commoners out 
-hypn0tyks
-creator of best bloodborne maps out there thank you 
-brbgtgbowflex
-great redditor and tomb raider thank you for allowing us to use chalice dungeons faqs and flow chart foundation 
-uhka
-finnish power house is at it again 
-ikbax
-thanks goes to redditor for collecting information about 
-farming spots
-sevy
-long time redditor comes to aid friends in need 
-rylicious
-des pvper and good friend also the best 
-streamer
-phillip
-hard working german friend from eu des community 
-rubhen925
-thank you for providing images of items weapons and armor much appreciated 
-swinnyuk
-awesome contributor for boss strategies of all kinds 
-home
- subscribe to 
-posts atom 
-window onload function document getelementbyid gsc i id1 placeholder search bloodborne wiki 
- window   wavt aouzoy49dew1pxvmhwtmnqyf2r0ppnhdcg 1706930173393  widgetmanager  init www blogger com rearrange blogid x3d6296044239170440092 www bloodborne wiki com p contributors html 6296044239170440092  widgetmanager  setdatacontext name blog data blogid 6296044239170440092 title bloodborne wiki url https www bloodborne wiki com p contributors html canonicalurl https www bloodborne wiki com p contributors html homepageurl https www bloodborne wiki com searchurl https www bloodborne wiki com search canonicalhomepageurl https www bloodborne wiki com blogspotfaviconurl https www bloodborne wiki com favicon ico bloggerurl https www blogger com hascustomdomain true httpsenabled true enabledcommentprofileimages true gplusviewtype filtered postmod adultcontent false analyticsaccountnumber encoding utf 8 locale en localeunderscoredelimited en languagedirection ltr isprivate false ismobile false ismobilerequest false mobileclass isprivateblog false isdynamicviewsavailable true feedlinks x3clink rel x3d x22alternate x22 type x3d x22application atom xml x22 title x3d x22bloodborne wiki atom x22 href x3d x22https www bloodborne wiki com feeds posts default x22 x3e n x3clink rel x3d x22alternate x22 type x3d x22application rss xml x22 title x3d x22bloodborne wiki rss x22 href x3d x22https www bloodborne wiki com feeds posts default alt x3drss x22 x3e n x3clink rel x3d x22service post x22 type x3d x22application atom xml x22 title x3d x22bloodborne wiki atom x22 href x3d x22https www blogger com feeds 6296044239170440092 posts default x22 x3e n metag adsensehostid ca host pub 1556223355139109 adsensehasads false adsenseautoads false boqcommentiframeform true loginredirectparam view dynamicviewscommentssrc www blogblog com dynamicviews 4224c15c4e7c9321 js comments js dynamicviewsscriptsrc www blogblog com dynamicviews a78904f6d935c498 plusoneapisrc https apis google com js platform js disablegcomments true interstitialaccepted false sharing platforms name get link key link sharemessage get link target name facebook key facebook sharemessage share to facebook target facebook name blogthis key blogthis sharemessage blogthis target blog name twitter key twitter sharemessage share to twitter target twitter name pinterest key pinterest sharemessage share to pinterest target pinterest name email key email sharemessage email target email disablegoogleplus true googleplussharebuttonwidth 0 googleplusbootstrap x3cscript type x3d x22text javascript x22 x3ewindow    gcfg x3d x27lang x27 x27en x27 x3c script x3e hascustomjumplinkmessage false jumplinkmessage read more pagetype static page pageid 1666166907644153280 pagename contributors pagetitle bloodborne wiki contributors name features data name messages data edit edit linkcopiedtoclipboard link copied to clipboard ok ok postlink post link name template data name custom localizedname custom isresponsive false isalternaterendering false iscustom true name view data classic name classic url view x3dclassic flipcard name flipcard url view x3dflipcard magazine name magazine url view x3dmagazine mosaic name mosaic url view x3dmosaic sidebar name sidebar url view x3dsidebar snapshot name snapshot url view x3dsnapshot timeslide name timeslide url view x3dtimeslide ismobile false title contributors description contributors bloodborne wiki xbb contributors source x26verticalseparator edit x26verticalseparator sitemap x26verticalseparator licen featuredimage https blogger googleusercontent com img b r29vz2xl avvxseizfm6admu9rjfs7znhakdu6hx3acyha7hnfrm9auzc oo57olbicduc73afdweyqyiz8vlrtl7hvuhhywc1tz jufms9gxlzyate1j1nsudvzsnwcnanp1czhlfdgwwxuv7ez0hq0tzqhczvuqg4pexyik zai6evhshumdzu7p eerjfgm4ukd aqga s1600 toc button png url https www bloodborne wiki com p contributors html type item issingleitem true ismultipleitems false iserror false ispage true ispost false ishomepage false isarchive false islabelsearch false pageid 1666166907644153280  widgetmanager  registerwidget  blogview new  widgetinfo blog1 main document getelementbyid blog1 cmtinteractionsenabled false lightboxenabled true lightboxmoduleurl https www blogger com static v1 jsbin 1246064851 lbx js lightboxcssurl https www blogger com static v1 v css 3268905543 lightbox bundle css displaymodefull ----------------------------new request----------------------------
- function var cx 009909572006487121327 bjvowdd9 aq var gcse document createelement script gcse type text javascript gcse async true gcse src https cse google com cse js cx cx var s document getelementsbytagname script 0 s parentnode insertbefore gcse s 
-current game version 
-1 09
-patch live 
-dec 21 2015
-april 13 2023
-no scheduled
-server status 
-online
-index
-contact
-chat
-notes
-contributors
-faqs
-links tools
-return to yharnam 
-2023
-community event taking place from march 24th to april 7th
- ended 
-newest article
- jan 14 2024 
-unique items in chalice dungeons
-general information
-home
-sitemap
-expansion
-reviews sales
-game patches
-game mechanics
-controls
-your character
-character classes
-character stats
-character builds
-covenants
-sliders
-equipment
-weapons
-firearms
-shields torches
-armor
-items
-gems materials
-the world
-bosses
-enemies
-merchants
-npcs
-locations
-chalice dungeons
-other information
-world progression
-farming
-trophies
-credits
-art of bloodborne
-unused content
-bloodborne the old hunters collector s edition guides
- future press gone behind the scenes with bloodborne s creators to unearth every secret hidden within the mysterious city of yharnam your hunt through the streets of yharnam will be your most exciting and rewarding journey yet and the road will be hard but fear not these guides are your key to mastering the merciless challenges and navigating the darkest depths of the city 
-more
-bloodborne discord
-tomb prospectors discord
- faqs 
-faqs
-bloodborne wiki
- faqs
- source 
- verticalseparator 
-edit
- verticalseparator 
-sitemap
- verticalseparator 
-license
-page revision 21 last edited 14 aug 2020
-table of contents
-beginner tips
-network issues for certain users
-chalice dungeons
-how to access dlc the old hunters
-platinum theme
-player notes
-beginner tips 
-source
-the below are things you should know that can make your journey through yharnam and the rest of the game easier you don t have to follow all of them to a t 
- get used to dying repeatedly it s normal just try to learn from your deaths 
- you cannot level until you gain a point of insight you can do that by running into your first boss or by finding and using an item called madman s knowledge you should prioritize this 
- try not to invest any points into bloodtinge or arcane on your first character those are much more nuanced stats with a higher learning curve and require you to know what you are doing to put them to full use you can totally beat the game with just vitality endurance strength and skill 
- read the game provided notes in the hunter s dream they provide information about the controls and other helpful hints the clinic you first wake up in has some as well 
- all weapons are viable find something with a moveset you like and enjoy it some weapons are more nuanced than others and require a more expert touch but you can defeat anything with any weapon if you know what you are doing with it you can even keep using your beginning weapon s from start to finish if you upgrade them periodically 
- clothing and their stats ultimately do not make a huge difference people call it fashionborne for a reason in general just wear what you think is cool at most you can stack gear that focuses on a particular element or resistance for specific situations and they will serve as a nice extra buffer outside of that there isn t a big difference between clothes other than how they look 
- explore explore explore you will often find gear and weapons lying about in more hidden corners you will definitely find items and whatnot to help you along the road also keep an eye out for 
-shortcuts
- they will make your journey in yharnam so much easier 
- learn to 
-parry
- parrying is when you shoot your firearm just as an enemy is striking when you do it right you will stagger them with a special sound and you can go up to them and press r1 for good damage with a 
-visceral attack
- this doesn t work on every enemy but will make things much easier and epic against certain enemies and bosses try to practice in the first area and get a feel for it the brick trolls in central yharnam are great targets for this 
- practice the first area might feel like an extremely brutal start if you re new to souls style games but if you run around a bit to get a feel for the game you can get used to the style and combat you can also use the time to farm the currency and level up a bit 
- learn to take it slow and take on enemies one at a time if they re in a group try to lure individuals out pace yourself and learn when you should be cautious better safe than dead when you re more skilled then you can try to take on more opponents at once 
- have patience sometimes you will die in really pathetic ways or you will die just as you re about to beat some really tough boss it s normal to get frustrated but try to take a deep breath and figure out where you went wrong the worst thing you can do aside from smashing your ps4 is probably try to run back to whatever killed you in a fit of rage and either die to them due to recklessness or even die on the way back due to carelessness 
- do your own research this game has been out for about an year now and there is plenty of information out there if you re confused about something chances are that someone else has had the same problem put google to good use or search this sub for information 
- this is the most important guideline 
-have fun
- the point of playing this game is to have fun so if you find something that people don t recommend but works for you go for it if you want to spend hours throwing yourself at a boss just because you like it go for it if you want to spend hours mopping up those mooks that used to kick your ass because it feels good go for it it s your game and your character so just make sure you re having fun 
-network issues for certain users
-if you are having trouble accessing online features please check your nat type and ensure proper ports on your network are open 
-how to check your nat type
- please check your nat type by following these steps on your ps4 
- ps4 home menu settings network view connection status nat type
- check whether it is type 1 type 2 or type 3 
- online functionality may be restricted when playing under nat type 3 
-please check your network hub or contact your provider for more details if you are unsure of your network environment please either refer to your network hub manual or contact your internet service provider 
-opening ports port forwarding
- the following shows the ports necessary to connect to psn as well as bloodborne s online servers if you are having trouble connecting please ensure that these ports are open on your network hub 
- port number required to connect to psn 
- tcp 80 443 3478 3479 3480 5223 8080
- udp 3478 3479 3658
- port number required to connect bloodborne s online servers 
- tcp 18671 20443
- udp 9305 9306
-chalice dungeons 
-by esper row with input from the tomb prospectors discord
-getting started
-what is a chalice dungeon 
- a chalice dungeon consists of three or four layers each containing a minor level culminating in a boss fight each layer tasks the hunter to navigate a series of underground ruins and find a lever that opens a locked gate to the boss so that they may proceed to the next floor and repeat the process until the dungeon s end the difficulty of a dungeon is dependent on its depth which is represented by a number from 1 5 with 1 being the easiest and 5 being the hardest chalice dungeons are divided into two categories fixed dungeons also called story dungeons by the community and root dungeons 
-how do i begin dungeon diving 
- the first obtainable chalice is the 
-pthumeru chalice
- which is dropped by the 
-blood starved beast
- in 
-old yharnam
- the two 
-ritual blood
- 1 needed to create it are found earlier in the level on an altar in the building below djura to use it conduct the ritual at any of the six ritual altars to the left of the messenger shops in the 
-hunter s dream
- this is where you will always be creating dungeons you will obtain more chalices by exploring pthumeru and defeating the optional bosses 
-amygdala
- and 
-ebrietas daughter of the cosmos
- in the main game 
-what is the difference between a fixed dungeon and a root dungeon 
- a fixed dungeon can be considered the normal version of a chalice its map has set enemy item placements layouts and bosses all of which remain the same each time the dungeon is generated fixed dungeons are generally made once per character to unlock other chalices they contain and make them open to connect to for co op 
- a root dungeon will almost always be a different experience every time you create one when a root dungeon is generated the game pulls from a list of 100 200 pre generated dungeon maps for that chalice and spawns one of them each map will have a unique arrangement of rooms and differing placements of items enemies and bosses root chalices are never required for story dungeon progression but they are important to have for accessing glyphs later on 
-when should i tackle the fixed dungeons 
-depth 1
- is scaled to be accessible as soon as you defeat the 
-blood starved beast
- so you can begin the journey immediately gehrman even encourages the hunter to do so a 3 weapon is good to have at this point which should be achievable with the abundance of blood stone shards scattered throughout the early game 
-depth 2
- is a minor step up in enemy scaling from the previous depth most will be comfortable coming here directly after depth 1 although getting a handful of extra levels beforehand is wise 
-depth 3
- sees a noticeable spike in difficulty and should be saved until after you reach 
-yahar gul unseen village
- in the blood moon phase a 6 weapon at minimum is recommended 
-depth 4
- is where the dungeons start to earn their infamy as this is where the ever popular 
-defiled chalice
- resides enemy damage and health modifiers start to rival and even exceed the late game and dlc here so it s best to hold off on these dungeons until you reach the endgame in mensis and max out your main weapon at 10 for the defiled chalice in particular which comes with the twist of a cursed rite it s wise to have a high vitality stat at least 40 ideally and multiple 
-clockwise metamorphosis
- runes 
-depth 5
- amps the enemy scaling even further than depth 4 while the lack of a natural cursed rite makes the depth 5 fixed dungeons less punishing than the 
-defiled chalice
- you should still expect a decent challenge here especially from pthumeru ihyll 
- if you choose to ignore the dungeons until after completing the main game and or dlc depths 1 3 will largely become a cakewalk due to their early and mid game difficulty that never scales with story progress or new game plus cycles making detours into the dungeons throughout a playthrough will provide more gems upgrade materials for the main story and prevent the monotony of blitzing through five or more easy dungeons all in a row during the endgame 
-what are ritual materials 
-ritual materials
- are ingredients used to create chalice dungeons the most basic ones are ritual blood and tomb mold which will be required for the majority of dungeons you make these materials are each separated into five levels represented by the number in their names the level of ritual blood tomb mold needed always corresponds to the dungeon s depth so the depth 1 pthumeru chalice requires ritual blood 1 and the pattern continues from there 
- as you descend to lower and lower depths you will need to gather higher quantities of increasingly rare materials for each dungeon made if you are following the game s intended dungeon progression exploring each fixed dungeon s layers and side areas thoroughly to find chests with materials is critical you may occasionally need to farm certain enemies for materials as well all materials will eventually become purchasable in the hunter s dream from the two messenger s shops by completing certain fixed dungeons and entering new game plus 
- the only material found exclusively outside of the dungeons is the 
-living string
- which is needed for 
-pthumeru ihyll
- and dropped by the 
-brain of mensis
- on death as such it is recommended that you do not enter new game plus until you obtain this material as you will otherwise need to make your way back to mensis in new game plus to obtain it there is also a common bug associated with the brain that prevents it from dropping the living string while in co op however it should respawn after reloading the area 
-what is the short root ritual chalice 
- the 
-short root ritual chalice
- can be bought from the insight messenger bath for 10 insight after completing the first pthumeru fixed dungeon it enables use of the makeshift altar which comes with a handful of useful functions with it you can perform a quick search to open a random root dungeon you meet the entry requirements for resonate your bell to be summoned to a host seeking assistance or invade a dungeon with an active bell maiden as an adversary all directly from the hunter s dream this is a great tool for hunters looking to find random dungeons to explore and or participate with others in although the game s age and the altar s notoriously slow matchmaking usually make for long waiting times between sessions 
-what are rites 
- rites are additional modifiers that can be added to a root dungeon each rite makes a dungeon more difficult but some also improve your rewards for exploring the lower the depth the more rites become available there are four in total that are available by the time you reach depth 5 
- the fetid rite will grant a red aura to several enemies throughout the dungeon increasing their damage output by 35 on the positive side these enemies will drop larger amounts of blood echoes and more rare items 
- the rotted rite will replace some enemies in the dungeon with one or a combination of the following new enemy types in every layer 
-eye collectors
- who will aggressively summon 
-mad ones
- in groups of three until killed
-npc hunters of varying builds including saw spear hunter wearing the bone ash set chikage hunter wearing the cainhurst set logarius wheel hunter wearing the gold ardeo
-roaming 
-labyrinth ritekeepers
- each flanked by a small patrol of pthumerian watchers
- the cursed rite will halve the hunter s hp while they remain within the dungeon it also causes all enemies to drop cursed gems by default which have much stronger primary effects at the cost of a random negative effect like the fetid rite echo amounts and item drop rates from enemies are improved but the cursed rite also has a hidden effect that boosts the item discovery of any hunter with an eye or milkweed rune equipped by a staggering 1000 while cursed dungeons represent some of the most challenging content bloodborne has to offer they are always the most lucrative places to farm for blood gems and echoes 
- sinister rite will add a guaranteed 
-bell ringer
- to every layer of the dungeon notably this rite is only available for separate sinister root chalices and cannot normally be stacked with the prior rites ringing either of the beckoning or sinister bells in a sinister dungeon will still spawn a second bell maiden allowing up to two invaders to join at once this rite provides no tangible improvements to rewards but it is handy for pvp centric hunters looking to set up fight clubs or run dungeons with the added twist of multiple invaders 
-if they are entirely optional why even bother with the chalice dungeons 
- players looking to obtain bloodborne s platinum trophy must reach the 
-pthumeru ihyll
- fixed dungeon to defeat 
-yharnam pthumerian queen
- doing so via the intended path will require traversing the four previous pthumeru fixed dungeons and unless in new game plus two additional detours into other chalices for necessary materials 
- more dedicated hunters seek the dungeons for their powerful 
-blood gems
- which trounce those found in the main game to give an example the strongest physical damage gems outside of the dungeons are 22 3 cursed temperings dropped by 
-winter lanterns
- in the fishing hamlet in depth 5 cursed dungeons the 
-merciless watchers
- can drop temperings as powerful as 27 2 providing a substantial leap in damage for any build optimizing any weapon in bloodborne will require varying amounts of time spent farming in the dungeons lowest depths 
- there are of course more reasons to go deeper the 
-chalice dungeons
- are home to unique 
-enemies
- and 
-bosses
- not found anywhere in the base game or dlc many of which will pose a significant challenge to experienced hunters other benefits include finding uncanny or lost variants of each weapon with different gem slots the strongest versions of most runes from the main game the beast claw trick weapon two unique sets of attire efficient farming locations for blood echoes and the allure of finding bloodborne s greatest rarities 
-dungeon navigation
-how are chalice dungeons structured 
- as mentioned earlier a chalice dungeon consists of three or four layers each of these will have three distinct sections commonly referred to in order as the pre lamp the main area and the pre boss finally a layer will be capped off in an arena with a boss encounter 
- the pre lamp is the corridor leading from the beginning of the layer to the layer s starting lamp often there may be a bronze door or open doorway on one side of the hallway that leads to a side area these will always contain a well guarded treasure coffin with rare loot like ritual materials in fixed dungeons or caryll runes and weapon variants in root dungeons although these paths are optional for completing the dungeon itself their rewards are often enough to make them worth exploring especially if you are combing through the fixed dungeons 
- the main area is the middle section of a layer immediately following the lamp there will always be a locked gate near said lamp your task will be to find a lever within this section to unlock the gate and continue forward this lever will be found somewhere deep in the main area explore diligently and check every corner and closed door to find it once you have done so return to the start of the main area and open the gate to enter the pre boss 
- the pre boss is the corridor leading to the boss arena just like the pre lamp there may be a side area with a treasure coffin which will work the same way as a pre lamp side area the end of the layer will always have a boss fight defeat the boss proceed to the next layer and repeat the process until you reach the dungeon s end 
-are there any deviations to this dungeon structure 
- the chalice dungeons occasionally throw small wrenches in the mix but the core progression of pre lamp main area pre boss boss will always remain the same the main area can contain its own bonus area and treasure coffin either behind a bronze door or through a seamless corridor transition the pre lamp and pre boss areas may also sometimes connect to the main area via alternate routes and in the case of the pre boss section this may even allow the hunter to bypass the locked gate and open it from the other side without ever touching the lever additionally unlike the main game illusory walls are present in two of the fixed dungeons and many of the root dungeons 
-there is a chest in a doorway blocking my way forward what do i do 
- you can break it with your weapon or firearm this will take several swings but doing so will let you pass unlike dark souls ii breaking chests will not damage their items inside shotgun firearms like the blunderbuss are great for breaking chests quickly with their high ammo spread 
-sharing and accessing glyphs
-what is a glyph 
- when a hunter creates a root dungeon a unique eight character code will be generated for it visible in the bottom right corner of the dungeon menu think of this as a password that can be entered to access that dungeon again at any time to enter a glyph interact with any of the six ritual altars and select search by chalice glyph 
-i just made an interesting glyph how do i make it open to others 
- interact with the ritual altar holding said dungeon and select the option to share it this will open access to other players once you have shared it with either an open or closed privacy setting 
-what is the difference between a dungeon being open or closed 
- an open glyph can be entered by any player ringing at the makeshift altar allowing hunters to summon cooperators or be invaded by adversaries directly from the 
-hunter s dream
- this is especially convenient for hunters looking to quickly help a friend on a lower layer of a difficult dungeon bear in mind that it takes much longer on average to be summoned from the makeshift altar than from inside the dungeon itself so be patient when waiting to connect 
- a closed dungeon can only be accessed by inputting its corresponding glyph at a ritual altar hunters will not be able to enter these dungeons with the makeshift altar and must instead ring their bells near the host s proximity on the same layer of that dungeon most save edited farming glyphs are closed 
-why was my glyph deleted from the server 
- glyphs that are not routinely accessed by other hunters will eventually expire and be removed from the server presumably to maintain space for others while we do not fully understand the specifics of how this system works it typically takes around two weeks of inactivity for a glyph to be purged sadly there is no way to recover a glyph once it is gone if you want to keep your glyph alive as long as possible consider sharing it with friends and or the community on social media to increase the chances of other hunters accessing it 
-why don t i meet the requirements for entering insert dungeon 
- two conditions must be met to enter any standard root dungeon 
-first you must have already obtained the corresponding root chalice for the glyph you are trying to enter for instance pwmf22gu a classic farming glyph is a 
-pthumeru ihyll
- so entering it requires the pthumeru ihyll root chalice or its sinister variant in hand 
-second you must have previously generated dungeons with all of the same rites as the glyph you want to access creating a single root dungeon with the fetid rotted and cursed rites all applied is sufficient there is no need to complete this dungeon enter it or even keep it on an altar making such a dungeon will guarantee that you can enter glyphs with any combination of f r c rites so long as you also meet the first condition 
- note the same rule applies for the sinister rite therefore you must make your own sinister root dungeon with its rite enabled before having access to any sinister glyphs this is less important than the other rites as sinister chalices are never used for farming glyphs 
-multiplayer interactions
-is there any difference in how i connect to people for co op pvp in dungeons 
- the core fundamentals of bloodborne s summoning system remain the same the host rings the beckoning bell the cooperator rings their small resonant bell and both wait to connect if a bell maiden is present you will be notified of her ringing by a hud message and she will actively search for an adversary to invade your session until she is killed passwords carry over as well the only difference is that potential cooperators and adversaries have the option to search for sessions from the makeshift altar for added convenience 
-why can t my friends connect to me in insert dungeon 
- bloodborne s bell summoning system is notoriously obtuse and finicky so there are a number of factors that could be tripping you up below is a list of details you can check for troubleshooting 
-ensure you all have a matching password this sounds obvious but everybody forgets to switch their password from time to time 
-set your matchmaking to worldwide if you have not already 
-check to be sure the bell symbol under your hp and stamina bars isn t grayed out remaining on ladders or unstable ground like certain bridges will cross this icon out and prevent you from connecting 
-if your cooperator is ringing into an open dungeon via the makeshift altar be mindful that the makeshift altar is infamously slow at matchmaking so do not expect to connect for at least a few minutes most of the time 
-if you are in a closed dungeon make certain you are meeting the following criteria on top of the first two bullet points above 
-all participants must ring on the same layer of the dungeon to connect 
-ring in the same general area as your cooperator s e g if they are ringing on the stairs leading to the layer boss make sure you ring there too 
-check what oath runes you and your cooperators are wearing 
-executioners
- and 
-vilebloods
- connecting to each other takes demonstrably longer than ringing with any other combination of runes 
-hunter of hunters
- also appear to take longer to be summoned on average 
-do 
-covenants
- interactions carry over from the main game 
-vilebloods
- and 
-executioners
- will still be enemies when summoned onto the same team and 
-hunter of hunters
- can enter as adversaries too the 
-milkweed
-beast s embrace
- and 
-impurity
- runes are good choices to avoid unwanted interactions like these 
-gem farming
-is farming top tier blood gems from the dungeons worth the effort 
- while the uptick in damage between story blood gems and depth 5 cursed blood gems is substantial bloodborne s main story is entirely doable for most average players with story gems and top tier chalice gems are often seen as overkill this generally holds true for early new game plus cycles and the dlc as well 
- if you plan to engage in pvp with veterans run low depth cursed dungeons or go all the way to the highest new game plus difficulty then chalice gems will become more important for keeping up with skilled hunters and heavily scaled up enemies otherwise if you re only interested in a few casual playthroughs and don t care about pvp don t feel too pressured to optimize 
-how and when do i get to farm top tier blood gems in the dungeons 
- all relevant farming glyphs are cursed depth 5 dungeons to reach them your priority is to obtain all three of the depth 5 root chalices and create your own root dungeon with all optional rites applied meeting these requirements will ensure your access to all farming glyphs for whatever blood gems you seek refer back to the final question of the 
-sharing and accessing glyphs
- section for a more in depth explanation 
-i m farming for insert gem and it hasn t dropped yet what gives 
- patience is a virtue and when it comes to gem farming it is also a necessity even with the improved drop rates in save edited farming glyphs many gem types are still very rare and can take many hours or days of dedicated farming to obtain 
-what do all of the blood gem effects do 
- below is a summary of each primary gem type and what they re best used for 
- tempering
- boosts physical damage at an average rate these are very useful all rounder gems that work for any non arcane build even if they aren t always optimal 
-adept
- boosts exclusively blunt or thrust damage at a higher rate than tempering these will be much more situational than tempering gems but if your weapon deals predominantly or exclusively blunt thrust damage these provide a generous boost in damage as a side note bear in mind that visceral attacks inflict thrust damage meaning that thrust adepts will make them stronger while blunt adepts will provide no benefit for them at all 
-nourishing
- boosts all damage at a lower rate than tempering the lower numbers might look less appealing on the surface but if your weapon has a mixture of physical and elemental damage these will boost both damage types and sometimes outperform tempering gems importantly blood damage is considered a type of physical damage for the sake of blood gems so temperings will still boost blood damage higher than a nourishing will provide 
-striking
- greatly boosts damage dealt exclusively by fully charged strong attacks these gems are very situational and gimmicky but for weapons with already potent charged attacks like the stake driver using these can make for a fun meme worthy build arcane builds using element converted weapons will see no benefit from striking gems as their effects only impact physical charged attack damage 
-radiant
- reduces all stamina consumption of a weapon s moveset these gems are essentially useless due to the already low stamina consumption on bloodborne s weapons across the board and added damage always being preferable 
-fool s
- boosts damage exclusively while the hunter is at full hp at a higher rate than tempering fool s can either boost physical damage alone like tempering gems or all damage as nourishing gems do if you re confident in your ability to fight unscathed in pve fool s gems can provide a decent chunk of extra damage in pvp however they are ill advised due to factors like latency and the fast pace of fights making it extremely difficult to maintain these gems effect against experienced duelists 
-poorman s
- boosts damage exclusively while the hunter is below 30 hp at a higher rate than almost all other blood gems like fool s poorman s can also drop as either tempering or nourishing effects these gems are inherently risky by forcing a glass cannon playstyle but for very knowledgeable players especially challenge runners they are very appealing for providing some of the highest damage possible in bloodborne 
-beasthunter kinhunter
- boosts damage exclusively against enemies that are classified as beasts or kin respectively while these gems appear stronger than tempering gems in raw value beasthunter and kinhunter effects are calculated after enemy defense is applied to your hits making them weaker in practice this on top of their situational applications and difficulty in farming makes these gems unappealing to most 
-heavy
- improves the weapon s strength scaling heavy abyssal gems provide such a massive increase in scaling that hunters on high level strength or quality builds will want to get one of them for most of their weapons 
-sharp
- improves the weapon s skill scaling due to a lack of any depth 5 boss at layer 3 or lower that drops sharp abyssals on par with heavy abyssals any available sharp gems are always worse than temperings and should never be farmed 
-warm
- improves the weapon s bloodtinge scaling for the same reason as sharp gems these are entirely useless 
-cold
- improves the weapon s arcane scaling these gems are crucial for arcane builds as most convertible weapons have low arcane scaling to begin with 
-pulsing
- steadily regenerates hp by a small amount every 2 seconds the regeneration rate is very slow and not worth sacrificing your main weapon s damage for but if you are using a build that doesn t care about gun damage putting one on your firearm can help save a blood vial or two in a pinch 
-murky
- enables the weapon to inflict the slow poison status and improves the build up rate the abundance of bosses with high poison resistance renders these situational to begin with and slow poison itself drains hp too slowly to compete with the raw damage provided by other blood gems 
-dirty
- enables the weapon to inflict the rapid poison status and improves the build up rate the same issue with murky gems applies here although rapid poison is a significantly stronger effect akin to the bleed status in other souls games and can be decent on weapons with fast multi hit attacks against the handful of enemies that are weak to poison 
-fire bolt arcane
- converts a pure physical damage weapon to the corresponding element and changes its scaling to exclusively arcane for arcane builds these gems are important for changing your damage type from physical to elemental and allowing your weapon to scale off of arcane 
-bloodtinge
- boosts exclusively blood damage at a higher rate than tempering while exceptionally tedious to farm in shapes other than circle these gems are very potent for the tricked modes of the bloodletter and chikage while also being a staple for any high damage firearm 
-what blood gems will be best for my weapon build 
- given the large variety of 
-blood gems
-weapons
- and possible 
-builds
- this is a hard question to give a general answer for the 
-best blood gems setups
- page on the bloodborne wiki is a good starting resource for checking what you should be aiming for on each weapon if you want a more direct answer you can ask in the 
-tomb prospectors subreddit
- or 
-discord server
- for input from other prospectors 
-what are abyssal blood gems 
- abyssal gems have the highest rank of any gem in bloodborne and are greatly sought after by the more dedicated prospectors in the community each boss on layers 3 or 4 at depth 5 will have a 33 chance to drop an abyssal gem of their corresponding type abyssals are not always the best of their kind and not every gem type can be normally obtained as one but many builds do require some for optimal damage especially those incorporating strength and or arcane save scumming is recommended for farming abyssal gems as a hunter would otherwise need to reset the dungeon and run back to layer 3 or 4 for every farming attempt 
- notably there are a few exceptions to the normal abyssal rule 
-pthumerian descendant
- at layers 3 or 4 in cursed dungeons cannot drop abyssal gems additionally descendant and the 
-pthumerian elder
- drop tempering abyssals at layers 1 and 2 these instances are attributed to mistakes or bugs rather than intentional decisions on the developers part 
-what is save scumming 
- save scumming involves making a back up save when farming bosses which cuts out the need to redo the dungeon after the boss is killed to start save scumming proceed through a dungeon to the boss you re looking to farm save and quit immediately in front of the boss gate and upload your save within your console s cloud settings or on a separate usb drive re enter the game and defeat the boss if you get the gem you re looking for then you are good to move on if not go back into the settings and download back the save you just made this will place you back where you were originally with the boss alive again letting you repeat the process until you get your desired gem drop 
-does item discovery help for farming gems 
- the answer depends on what you are farming discovery has no impact on the quality of gem drops so its only use is helping those gems drop at all since all depth 5 bosses in root dungeons have a 100 chance to drop a gem to begin with it will not help you with theirs however for mobs who regularly have consumables and materials in their drop tables tacking on an 
-eye
- and or 
-milkweed
- rune will make their gems drop more frequently 
-i see the phrase unable to acquire goodname due to inventory or storage max while farming is this something to worry about 
- no this is a harmless side effect from save editing dungeons it s a broken drop script attempting to give you an item that does not exist you can safely disregard this message 
-what do oos and ooe mean 
- oos stands for out of shape this refers to when a gem drops in a shape that is not native to the corresponding chalice radial in pthumeru triangle in hintertomb isz and waning in loran the chances of this happening are significantly lower than in the main game thus oos gems found in dungeons are very valuable especially when dropped from bosses bloodtinge gems in particular are highly prized as oos drops for the 
-bloodletter
- and 
-chikage
- as these are almost exclusively dropped as circle shape otherwise the only enemies that drop gems with their own distinct shapes regardless of the chalice are the 
-beast possessed soul
- enemy version not the boss and mobs spawned by the rotted rite 
- ooe stands for out of effect this refers to primary and secondary effects on blood gems that are not native to the gempool of that chalice in layman s terms they are extremely rare effects you will practically never see for instance while obtaining a bloodtinge gem from the merciless watchers boss in unedited pthumeru ihyll is technically possible the chance of it happening is 0 008 an astronomically low possibility that few will ever see 
-what is a gempool 
- each chalice has its own gempool which determines all of the possible primary and secondary effects each gem dropped can have and their likelihood in unedited dungeons pthumeru will provide gems impacting physical damage and support effects and hintertomb is mostly the same with a slightly higher emphasis on poison meanwhile loran leans more heavily into elemental damage and poison gems while isz is generally a mix of everything despite its chalices item descriptions suggesting mostly arcane effects 
- with save editing some players can share dungeons with tweaked gempools that make obtaining certain gems in different shapes much easier than normal and also sometimes improve drop rates altogether see the following section and question for more information 
-save edited dungeons
-what is a save edited dungeon 
-save edited dungeons
- are made by players with access to a third party save editing program allowing them to make limited modifications to a dungeon most commonly save editors are used to create dungeons with improved drop rates for blood gems that would normally be very challenging to obtain it is important to note that while this is quite beneficial for farming certain gems it is impossible to manually input custom drop rates into a dungeon with a save editor at best we can only work with what is already programmed into the game so some gems still remain tedious to farm 
- additional uses for save editing include 
-creating false depth and reverse depth dungeons
-stacking multiples of the cursed rite for increased item and blood echo drops
-accessing developer test dungeons
-changing what enemies are spawned by the rotted rite or spawning all of them at once
-forcing a dungeon s fourth layer open
-spawning the beast possessed soul mob and or the chalice messenger bath
-what is a test dungeon 
- test dungeons are broken and incomplete dungeons that contain significant amounts of cut content including architecture mobs and even bosses that were all left inaccessible in the final release these provide a unique opportunity to see content that was once planned for the finished game before being scrapped those with a save editor are able to recreate these maps as glyphs and share them publicly for the broader player base to explore while they do not usually provide checkpoints for you to warp back to the hunter s dream simply falling to your death in one of the many pitfalls of these dungeons will do the trick just make sure to spend your echoes before entering if you don t want to lose them in the process 
-what are false depth and reverse depth dungeons 
- false depth dungeons are lower depth dungeons that have been edited to be accessible much earlier than intended they can be found via glyphs once you have obtained the 
-pthumeru root chalice
- from layer 2 of the first fixed dungeon these allow you to obtain uncanny lost variants of base game weapons tier 3 runes powerful 
-blood gems
- and even skip directly into later depth fixed dungeons to unlock the best farming glyphs within hours of creating a new character 
- reverse depth dungeons are depth 1 2 root dungeons that have been edited so that enemies drop late game upgrade materials namely 
-blood stone chunks
- and 
-blood rocks
- from bosses these glyphs are vital for farming these rare resources as the bosses will be scaled for early game health and damage output making them pushovers for any decent build chunks can be farmed from any boss and rocks from the layer 3 and lower bosses of a reverse depth be sure to equip an 
-eye
- or 
-milkweed
- rune to improve the drop rates of these materials 
- these dungeons greatly streamline the buildmaking process cutting down the time investment needed to reach the depth 5 dungeons and making farming easier however for hunters venturing into the chalices for the first time these glyphs will sour the experience by overloading them with a ludicrous amount of echoes that far outpace the game s intended leveling curve while also letting them skip large amounts of content entirely for these reasons new players should look into save edited dungeons very sparingly or not at all until a later playthrough 
-are there any malicious save edited dungeons i should be concerned about and if so how can i identify them 
- unfortunately there are a few problematic test dungeons that have been made open for anyone to access these dungeons have no lamps to leave or cracks in the architecture to force a death by gravity permanently trapping any character that enters some of these dungeons can be escaped naturally if playing on the european game of the year edition but they still remain dangerous on all other versions of the game in january 2022 a glitch was discovered by the community that allows players to confuse the character s spawn point in dungeons which can be applied to escape deadly test dungeons an explanation of the glitch and instructions on how to use it for this purpose can be found in this 
-reddit post
- while this discovery does mean that these dungeons are no longer true softlocks you should generally avoid any unknown dungeon that has these traits in its menu 
-broken descriptions names with placename or menutext text
-depth 0 6 7 or 8 dungeons 
-multiples of the same rite applied or has the sinister rite stacked with other rites
-glitches exploits and softlocks
-i m trapped in a boss room with a pthumerian descendant how do i get out 
- see if you have a save file backed up on the playstation cloud or on a separate usb drive from before you entered this dungeon you may lose some progress but this will let you restore your character to a safe spot if you don t have one available your only option is to use a glitch to force yourself out you can find guides about how to execute it 
-here
-what is the dungeon merging glitch 
- the dungeon merging glitch was discovered in early 2022 and its applications are versatile to simplify an extremely complicated exploit the dungeon merging glitch requires placing one character in a specific spot in a dungeon and using a second character to quit from a co op or invasion session when executed correctly this will cause the first character to be launched into another predetermined dungeon which retains the gem shapes effects and values from the dungeon they were initially set up in this glitch is quite difficult to explain in short terms so for a more involved explanation see the 
-dungeon merging tab in the bloodsheets
- this glitch is chiefly used to force the game to provide blood gems that are normally very tedious to farm such as out of shape abyssals from bosses like amygdala and the bloodletting beast it also allows one to farm abyssal gems that are normally impossible to obtain such as flat arcane gems from brainsuckers and other gem types like adept fool s poorman s and many more the dungeon merging glitch can also be used to escape test dungeons that can otherwise soft lock players as explained in the previous section 
-what on earth is the cum dungeon 
- the infamous cum dungeon cummmfpk is a save edited dungeon created by long time prospector xtrin that exploits an unfortunate enemy placement and the way bloodborne progressively loads its level assets in the pre lamp side area of this dungeon s first layer a tomb prospector npc is placed directly in the path of a swinging axe that continually damages him because the game doesn t fully load the pre lamp area until you get close to it remaining in the hallway outside causes this npc to remain stuck in place while the axe quickly kills him providing an efficient effort free source of blood echoes the dungeon has also been edited to have multiple cursed rites stacked together which greatly enhances the amount of echoes obtained this is why your hp is in double digits territory while inside 
- for a more visual explanation from an expert on how souls games work modder and content creator zullie the witch has 
-a short video
- explaining cummmfpk s exploit as well 
-i m not getting free echoes from cummmfpk why 
- cummmfpk s echo farming exploit works so long as you do not approach the layer 1 pre lamp side area due to the way bloodborne gradually loads npc s and objects based on distance if you get too close to that area it will be further loaded and the npc hunter that would be killed by repeated axe swings will instead be knocked off and take no further damage taking a step or two out from the chamber of the seal lamp and looking for the damage numbers in the distance to your left is all you need to do 
-miscellaneous
-did the community ever figure out what the deal was with 
-guidance
- tier 3 and 
-revered great one coldblood
- both exist in the game s data and are fully functional but neither can be obtained without modding on a jailbroken console or a save editor while both were mentioned as lootable from depth 5 root dungeons by an official guide a complete exploration of every root dungeon has proven this to be false 
-does the 
-yharnam stone
- do anything 
-a cut set of dialogue
- for the hamlet priest npc that would have been triggered by having the yharnam stone was discovered but this event was not kept in the final release of the dlc the stone is best looked at as a testament to conquering the story dungeons and nothing more 
-are the chalice dungeons affected by ng cycles 
- chalice difficulty is never affected by new game cycles and your progress will not be impacted by going to the next cycle either if you enter a new new game cycle all of your chalices will be on the same altars they were when you completed the game 
-can 
-yharnam pthumerian queen
- be found in the root dungeons 
- yharnam is exclusive to the fixed pthumeru ihyll dungeon 
-can i get uncanny lost variants of dlc weapons before entering the dlc 
- dlc weapons uncanny and lost variants are only unlocked at chalice messenger baths after you obtain their original versions from the dlc campaign there is no way to save edit weapons to appear at chalice merchants earlier than normal 
-i heard that everything in the dungeons has been found is this true 
- with two complete rounds of community mapping for every root dungeon in the books and modders digging into the game s files for years it s safe to say that every major secret in the dungeons has been laid bare it s very possible that there are other glitches and exploits yet to be found but groundbreaking discoveries like new enemies and bosses are a thing of the past 
-how to access dlc the old hunters
-step 1
-defeat the boss of the 
- cathedral ward
- and examine the altar in the back of the room to change the in game time to night 
-step 2
-go to the 
- hunter s dream
- and receive the 
-eye of a blood drunk hunter
- from a messenger 
-step 3
-go to the oedon chapel and leave via the left hand exit to enter the square 
-new game 
-if you start a new game you will have to perform all the steps necessary to access the old hunters content again 
-step 4
-go to the right hand end of the square to trigger an event this event will take you to the new area the 
- hunter s nightmare
-step 5
-lighting the lamp in the new area will allow you to travel to and from the area via an awakening headstone in the 
- hunter s dream
-note
-if the 
-eye of a blood drunk hunter
- isn t showing up go to settings playstation network account management restore licenses
-platinum theme 
-source
-how to get your platinum theme for bloodborne
-if you re getting promotional e mails from playstation your settings are correct in case you received an e mail congratulating you for getting the platinum trophy but no code it is better to change your settings to receive them 
-it is faster to connect with sony via chat on their website wait for a customer service rep to be available and pay attention to the tab window because if you don t respond when you re finally connected they will end the chat and you ll need to wait again tell them you re needing a voucher code for a special theme and assistance with that they will send an e mail and you will have to respond with a screenshot showing the trophy and my online id the subject of the e mail they send is voucher code information requested attach the image shown and write you had platinum d bloodborne and you are requesting the code to download the free theme for doing so it could take up to 3 business days to receive it 
-if your trophies aren t showing up on the website turn on your ps4 go over to trophies then highlight bloodborne s click the options button then select sync with playstation network if that doesn t work go to profile privacy settings sharing your experience trophies change it to anyone and then confirm after you ve taken your screenshot you can change it back if you d like you may want to go back to trophies and sync it with playstation network again just in case 
-to change privacy settings information on this can be found here 
-privacy settings
- for internet privacy display names are blocked out image send to the sony will have to include them
-player notes 
-source
-q how many notes can i have placed at any given time 
- a 10
-q what happens when i place another note after hitting the cap will it delete one of my older notes or will it just not let me place it 
- a the oldest note will be deleted 
-q what does the protect option do in the notebook 
- a stops the note from being deleted 
-home
- subscribe to 
-posts atom 
-window onload function document getelementbyid gsc i id1 placeholder search bloodborne wiki 
- window   wavt aouzoy66bhx7zaglloamabav9wzatc5fyq 1706930173843  widgetmanager  init www blogger com rearrange blogid x3d6296044239170440092 www bloodborne wiki com p faqs html 6296044239170440092  widgetmanager  setdatacontext name blog data blogid 6296044239170440092 title bloodborne wiki url https www bloodborne wiki com p faqs html canonicalurl https www bloodborne wiki com p faqs html homepageurl https www bloodborne wiki com searchurl https www bloodborne wiki com search canonicalhomepageurl https www bloodborne wiki com blogspotfaviconurl https www bloodborne wiki com favicon ico bloggerurl https www blogger com hascustomdomain true httpsenabled true enabledcommentprofileimages true gplusviewtype filtered postmod adultcontent false analyticsaccountnumber encoding utf 8 locale en localeunderscoredelimited en languagedirection ltr isprivate false ismobile false ismobilerequest false mobileclass isprivateblog false isdynamicviewsavailable true feedlinks x3clink rel x3d x22alternate x22 type x3d x22application atom xml x22 title x3d x22bloodborne wiki atom x22 href x3d x22https www bloodborne wiki com feeds posts default x22 x3e n x3clink rel x3d x22alternate x22 type x3d x22application rss xml x22 title x3d x22bloodborne wiki rss x22 href x3d x22https www bloodborne wiki com feeds posts default alt x3drss x22 x3e n x3clink rel x3d x22service post x22 type x3d x22application atom xml x22 title x3d x22bloodborne wiki atom x22 href x3d x22https www blogger com feeds 6296044239170440092 posts default x22 x3e n metag adsensehostid ca host pub 1556223355139109 adsensehasads false adsenseautoads false boqcommentiframeform true loginredirectparam view dynamicviewscommentssrc www blogblog com dynamicviews 4224c15c4e7c9321 js comments js dynamicviewsscriptsrc www blogblog com dynamicviews a78904f6d935c498 plusoneapisrc https apis google com js platform js disablegcomments true interstitialaccepted false sharing platforms name get link key link sharemessage get link target name facebook key facebook sharemessage share to facebook target facebook name blogthis key blogthis sharemessage blogthis target blog name twitter key twitter sharemessage share to twitter target twitter name pinterest key pinterest sharemessage share to pinterest target pinterest name email key email sharemessage email target email disablegoogleplus true googleplussharebuttonwidth 0 googleplusbootstrap x3cscript type x3d x22text javascript x22 x3ewindow    gcfg x3d x27lang x27 x27en x27 x3c script x3e hascustomjumplinkmessage false jumplinkmessage read more pagetype static page pageid 4746890838351179702 pagename faqs pagetitle bloodborne wiki faqs name features data name messages data edit edit linkcopiedtoclipboard link copied to clipboard ok ok postlink post link name template data name custom localizedname custom isresponsive false isalternaterendering false iscustom true name view data classic name classic url view x3dclassic flipcard name flipcard url view x3dflipcard magazine name magazine url view x3dmagazine mosaic name mosaic url view x3dmosaic sidebar name sidebar url view x3dsidebar snapshot name snapshot url view x3dsnapshot timeslide name timeslide url view x3dtimeslide ismobile false title faqs description faqs bloodborne wiki xbb faqs source x26verticalseparator edit x26verticalseparator sitemap x26verticalseparator license page revisio featuredimage https blogger googleusercontent com img b r29vz2xl avvxseizfm6admu9rjfs7znhakdu6hx3acyha7hnfrm9auzc oo57olbicduc73afdweyqyiz8vlrtl7hvuhhywc1tz jufms9gxlzyate1j1nsudvzsnwcnanp1czhlfdgwwxuv7ez0hq0tzqhczvuqg4pexyik zai6evhshumdzu7p eerjfgm4ukd aqga s1600 toc button png url https www bloodborne wiki com p faqs html type item issingleitem true ismultipleitems false iserror false ispage true ispost false ishomepage false isarchive false islabelsearch false pageid 4746890838351179702  widgetmanager  registerwidget  blogview new  widgetinfo blog1 main document getelementbyid blog1 cmtinteractionsenabled false lightboxenabled true lightboxmoduleurl https www blogger com static v1 jsbin 1246064851 lbx js lightboxcssurl https www blogger com static v1 v css 3268905543 lightbox bundle css displaymodefull ----------------------------new request----------------------------
- function var cx 009909572006487121327 bjvowdd9 aq var gcse document createelement script gcse type text javascript gcse async true gcse src https cse google com cse js cx cx var s document getelementsbytagname script 0 s parentnode insertbefore gcse s 
-current game version 
-1 09
-patch live 
-dec 21 2015
-april 13 2023
-no scheduled
-server status 
-online
-index
-contact
-chat
-notes
-contributors
-faqs
-links tools
-return to yharnam 
-2023
-community event taking place from march 24th to april 7th
- ended 
-newest article
- jan 14 2024 
-unique items in chalice dungeons
-general information
-home
-sitemap
-expansion
-reviews sales
-game patches
-game mechanics
-controls
-your character
-character classes
-character stats
-character builds
-covenants
-sliders
-equipment
-weapons
-firearms
-shields torches
-armor
-items
-gems materials
-the world
-bosses
-enemies
-merchants
-npcs
-locations
-chalice dungeons
-other information
-world progression
-farming
-trophies
-credits
-art of bloodborne
-unused content
-bloodborne the old hunters collector s edition guides
- future press gone behind the scenes with bloodborne s creators to unearth every secret hidden within the mysterious city of yharnam your hunt through the streets of yharnam will be your most exciting and rewarding journey yet and the road will be hard but fear not these guides are your key to mastering the merciless challenges and navigating the darkest depths of the city 
-more
-bloodborne discord
-tomb prospectors discord
- links 
-links tools
-bloodborne wiki
- links tools
- source 
- verticalseparator 
-edit
- verticalseparator 
-sitemap
- verticalseparator 
-license
-page revision 92 last edited 04 mar 2023
-table of contents
-bloodborne status simulator
-discord channel
-hunter s workshop fight club
-community event
-sources
-bloodborne discord collected resources
-bloodborne walkthroughs
-bloodborne guides
-bloodborne sheets
-featured reddit threads
-featured gamefaqs threads
-pre release links
-blog
-archive page
-important
-bloodborne status simulator
-build planner v0 04
-character planner
-planner 2 
-multi player level range calculator
-progress guide
-speed souls
-efficient coldblood calculator
-download class calculator
-ar calculator tool
-archived
-bloodborne server status and ping test tool
-pure souls projects
-bloodborne status simulator 19 12 2018
-bloodborne status simulator for windows platform exe made by 
-kov er
- it features 
-blood gems
- you can select desired bloodgem for you weapon if there isn t you can customize your own blood gem if you double right click on certain gem from the list pop up glyphs come up 
-weapons
- double clicking weapon icon pops up weapon selection window you can also check on access route 
-bl calculator
- you can calculate required blood echoes from current bl to target bl multi player level range calculation and determination of opponent s bl on pvp are also available download the 
-bloodborne status simulator
+as with primary weapons you can equip two left hand weapons at once and you can swap between them by pressing left usually you ll use a gun in your left hand but sometimes you may want a torch or shield left hand weapons are also referred to as off hand weapons sidearms and in the case of guns firearms generally speaking guns are a reliable form of ranged attack most of them scale with your bloodtinge stat that said different guns are effective at different ranges and tasks and some even scale with arcane rather than bloodtinge 
+a passive effect like hp recovery in your gun is active even if you are currently equipped two handed mode of any of your weapon 
+beware
+ equipping your firearm with any elemental blood gem arcane bolt fire will prevent you from 
+buffing
+ your right hand weapon despite it being buffable physical damage 
+useful links
+damage comparison
+left hand weapons
 image
- how to use 
-s
-click to expand collapse
- blood gem you can right click a gem on the list double right click pop up glyphs 
- lvl calculator multi player level range calculator determine opponent s levels on pvp 
- reset click bold hunter s mark icon 
- weapons double click weapon icon 
-discord channel
- 13 11 2016 
-currently active chat
-discord nightmare inhabited by hunters from r bloodborne
-hunter s workshop fight club 
-wiki page
-add fight club mod on ps4 and join us in psn chat room liminal nominal psn tacit0ne psn shionyu psn dyas 
-community event 
-wiki page
-after the huge success of the last two events hosted for this wonderful community and the overwhelming support and appraisal they received revered hunters u qh05t and u morosnyx have decided to co operate as hunters well should to bring the blood drunk fightclub to you 
-every week
-fond of chalice dungeons spelunking why not join the tomb prospectors then 
-the tomb prospectors seek the nether reaches of root chalice dungeons in order to find the strange the weird the undiscovered 
-the tomb prospectors discoveries
- wiki page lets you unearth the profound root chalice dungeon expeditions 
-if you love running root chalice dungeons the tomb prospectors covenant will gladly take you in join us on 
-reddit
- and 
-discord
-sources
-official
-wikis
-discussion
-online matchmaking
-chalice dungeons
-trophies
-news coverage
-bloodborne website
-wikia
-reddit com r bloodborne
-reddit com r huntersbell
-chalice glyph finder
-playstation trophies
-dualshockers
-twitter
-fextralife
-wikidot forums
-bloodtower net
-psn profiles
-ign
-playstation site
-wikidot
-fextralife forums
-bloodborne lfg
-gamefaqs
-gematsu
-playstation blog
-alloyape jp 
-neogaf
-reddit com r hwfc
-exophase
-gamepur
-yamagiwa twitter
-reddit wiki
-gamefaqs
-blood bell
-ign wiki
-vg 24 7
-yasuhiro kitao twitter
-kamikouryaku jp 
-live bloodborne irc
-gamespot
-from software website
-seesaawiki jp 
-r bloodbornesliders
-polygon
-digital manual
-bloodborne dip jp 
-eurogamer
-ps4 user guide
-souls modding wiki
-playstation lifestyle
-destructoid
-game informer
-videogamer
-bloodborne discord collected resources 
-many of your fellow hunters have kindly made found resources for anyone wishing to make the best of their gameplay experience we ve organized almost everything that s been shared with the server here for convenience thanks go to the discord mod team for collecting and organizing all the resources included below also you can join the bloodborne discord with this 
-invitation link
-undefiled pthumeru dungeon quick frc unlock 
-khan
- a guide to using false depth story dungeons to unlock depth 5 frc chalice dungeons for farming without passing through all the story chalice dungeons 
-orphan of kos gifs phase 1
-orphan of kos gifs phase 2
-dargonsouls
- a collection of clips which demonstrate backstab punishes for many of orphan s attacks 
-bloodborne weapon hitboxes
-emma
- a collection of hitboxes for bloodborne including most trick weapons used by the player 
-boss damage types
-kitpes
-collection of notes regarding types of damage dealt by main game and chalice bosses 
-bloodborne let s talk lore
-aegon of astora
-a youtube playlist of bloodborne playthrough experiences that also discuss its worldbuilding and its game mechanics last updated july 2017 
-bloodborne with jsf and sin
-sinclair lore and jerk sans frontieres
-a youtube playlist of podcasts discussing various details of bloodborne s worldbuilding from npcs to thematic elements last updated october 2021 
-defiled watchdog guide
-chaizaeng
-some guidance to fighting one of the more challenging chalice bosses the watchdog of the defiled chalice includes recommended weapons as well as images of boss movesets to watch out for 
-weapon ar comparison with different stats
-ayman
-a spreadsheet comparing the ar of all bloodborne weapons when the level for the weapon s primary stat is 50 while the secondary tertiary stats are base 
-rom a comprehensive guide
-arti
-a guide to fighting the base game and chalice boss rom the vacuous spider 
-bloodborne up close dlc edition
-jerks sans frontieres
-a series of videos examining the visual details of bloodborne s enemies and environment dlc edition 
-bloodborne up close
-jerks sans frontieres
-a series of videos examining the visual details of bloodborne s enemies and environment 
-how to make a bloodborne mule
-stochasticgd and crowley
- a guide to making a bl4 mule character that outlines game progression chalice exploration and goodies to pick up to do so and be pvp co op ready 
-laurence
-vic wraith
-a guide to fighting the dlc boss laurence the first vicar 
-amygdala a comprehensive guide
-arti
-a guide to fighting the base game and chalice boss amygdala 
-ludwigology
-stochasticgd
-a guide to fighting the dlc boss ludwig the accursed holy blade 
-bloodborne gem farming videos
-castiel forsaken plague doctor
-a playlist of chalice runthroughs showing off the frc glyphs and layouts most commonly used for gem farming 
-current patch 1 09 skips
-sad
-a spreadsheet containing all the currently working skips in the game documented with links 
-nourishing gems ar comparison
-ayman
-a look at different damage values based on nourishing gems set in various weapons 
-quality build ar comparison
-ayman
-a look at different damage values between various quality builds 
-arcane ar comparison
-ayman
-a look at different damage values based on arc scaling 
-bloodtinge ar comparison
-ayman
-a look at different damage values based on blt scaling 
-holy moonlight sword build info
-cone
-a guide to optimizing stats and gems for holy moonlight sword includes preset stat spreads and glyphs for the recommended gems 
-bloodsheets
-the tomb prospectors
-spreadsheet with save edited dungeons including false depth dungeons reverse depth dungeons dungeons with edited gempools terrible curse dungeons test dungeons and more 
-how to escape soft locking test dungeons
-esperrow
-directions for escaping developer chalice dungeons as described in psa about glitched developer chalice dungeons 
-bloodborne bestiary
-a roster of yharnam inhabitants bosses and locales 
-psa about glitched developer chalice dungeons
-xtrinx
-warning against chalice dungeons created by the psn user mitianshi they are glitched developer dungeons that are difficult to leave unless through convuluted means look out for any open privacy chalices with empty chalice icons and placename depth 0 6 8 or menutext for text glyph knvzjv62 is the currently the most active one we recommend not visiting the chalice to let the glyph die out visit only at your own risk 
-bl4 guide
-arti
-a guide on blood level 4 runs 
-bloodborne theme run cosplay run list
-prime
-a guide to putting together bloodborne cosplays based on available sets and weapons includes instructions for acquiring outfit pieces 
-all sinister chalices
-the tomb prospectors
-a false depth glyph for all the sinister chalices required for frcs in one location 
-the yharnam scholars wiki
-bb discord scholars
-a collection of various lore theories written and run by our own server scholars 
-bloodborne japanese retranslation guide
-presance
-alternate english translations for bloodborne based on the japanese edition and original japanese texts 
-bloodborne bosses tips tricks
-tranurz boreas hayden
-a comprehensive guide to taking on each and every boss in bloodborne including the old hunters dlc and chalices 
-blade of mercy pvp damage
-foxyhooligan
-a rundown with numerical data on the damage dealt by the blade of mercy with varied gem setups 
-best blood gem setups using edited dungeons 
-xtrin
-a comprehensive sheet with the best blood gem setups edited dungeon glyphs and locations for strength skill and quality 
-logarius wheel pvp damage
-foxyhooligan
-a rundown with numerical data on the damage dealt by the logarius wheel with varied gem setups 
-amygdalan arm pvp damage
-foxyhooligan
-a rundown with numerical data on the damage dealt by the amygdalan arm with varied gem setups 
-boom hammer pvp damage
-foxyhooligan
-a rundown with numerical data on the damage dealt by the boom hammer with varied gem setups 
-kos parasite pvp damage
-dark sun ty
-a rundown with numerical data on the damage dealt by the kos parasite at various level thresholds and with varied gem setups 
-bloodborne damage calculator
-foxyhooligan
-a helpful damage calculator for pvp make sure to save your own copy of the sheet file make a copy in order to input your own values 
-build ar calculator
-khan
-extremely useful build maker stat simulator provided kindly by khan features blood gems you can select the desired bloodgem for your weapon if the gem isn t available you can customize your own bloodgem double right clicking on certain gems from the list pops up glyphs weapons double clicking weapon icon pops up weapon selection window you can also check on access route bl calculator you can calculate required blood echoes from current bl to target bl multiplayer level range calculation and determination of opponent s bl on pvp are also available features 
-gem and stat based dmg calculations chikage and kos parasite
-foxyhooligan
-damage calculation of chikage and kos parasite for various moves with varying gem sets and stats 
-hunter tools scaling
-a snippet from the arcanist cookbook a sheet containing all the scaling values for the hunter tools in the game including the dlc 
-chalice dungeons exploration
-the tomb prospectors
-the sheets in this document include all bloodborne chalice dungeon maps explored by the tomb prospectors community including all 2300 root chalices with focus on chalice dungeon rarities such as rare enemies unusual architecture or glitches 
-bloodborne plot research
-micolash
-an intensive breakdown of bloodborne text translations and in depth study into the lore of the game thoroughly researched and meticulously compiled for the purpose of theorycrafting 
-reference list by dagdammit
-dagdammit
-a list of interesting reads compiled by user dagdammit 0612 that helps convey the theme employed by bloodborne lore 
-npc face data sliders 
-zullie the witch compiled by herne 
-sliders for making the faces of the npcs from the game dlc included 
-consumable duplication method
-dankoyster
-a slightly updated version of the item dupe that s been around since the original dark souls except without the risk of actually using the item 
-bloodborne envmaps
-dropoff
-image textures used to simulate specular reflections which are seen on smooth surfaces 
-defiled amygdala strategy
-thor
-a comprehensive quick kill strategy by a seasoned veteran of the game very handy when going through story chalices 
-cut dialogue subtitles
-bellringerkat
-a script of all the dialogue that was cut from various npcs in the final version of the game 
-safe test chalices
-zullie the witch
-a spreadsheet by zullie containing all the known test chalices that are safe to explore you do not need to backup savedata prior to exploring these 
-data mining thread
-nova
-a detailed mega thread on a collaborative effort of all data mined content in bloodborne 
-arcane scaling tool damage test base game only 
-x stickman x
-damage test on hunter tools with small increments in the arcane stat ranging from 3 to 99 only base game tools observed 
-a hunter s guide to damage
-anon bb korean 
-a comprehensive guide to understanding attack rating and attack damage calculations 
-spoiler free pocket guide
-friendly man
-a pocket guide with useful information for newcomers and people who need a quick refresher spoiler free 
-bloodborne weapons per origin
-asgore
-spreadsheet that lists all the starting classes and the weapons that can be used by the classes right at base blood level 
-bloodborne beasthood guide
- bbg 
-a basic guide to beasthood beast claws and pellets with information regarding statistics and mechanics 
-bloodborne boss weaknesses
-kab
-a spreadsheet with boss defense stats and weaknesses including defense modifiers and formulas for chalice dungeon bosses 
-the arcanist cookbook
-various spreadsheets on making arcane builds with supplementary information on bosses gems weapons tools and runes 
-the bloodborne sheets
-a compilation of spreadsheets mostly on story and root chalice dungeons with special glyphs listed for finding goodies extra information on all bloodborne bosses armor weapons and runes have also been included 
-bloodborne build planner
-juli
-a comprehensive guide to character creation in bloodborne includes information on stats weapons tools and runes you can use for your builds 
-weapon ar calculator
-instructions and formulas for calculating your weapon damage linked at the beginning is a document compiling all bloodborne weapons attribute scaling base damage and attribute saturation as well 
-how to make a build in bloodborne
-boreas
-a guide to character stats optimization in bloodborne included with the suggested builds are also the appropriate weapons and tools 
-the chalice atlas
-ghostlymire
-a compilation of chalice dungeon resources put together by the bloodborne wiki and the tomb prospectors look through here for information on chalice types and their possible loot glyph sheet linked after the introduction 
-bloodborne walkthroughs
-neoseeker walkthroughs
-ign wiki
-gamepressure com
-faq walkthrough by krystal109
-gamer guides
-vg24 7
-prima games
-eurogamer
-us gamer
-bloodborne guides
-bloodborne walkthroughs faqs and guides
- on neoseeker
-full game quest checklist
- by blizzlovsme
-bloodborne gamefaq guide
- by krystal109
- bbg information op
-bloodborne sheets
-bloodborne comprehensive armor comparison
-bloodborne data spreadsheet
- by talentedjuli
-arcane tool ar calculator spreadsheet
- by talentedjuli
-the arcanist cookbook
- by sljm8d
-old hunters updated tool scaling
- by sljm8d
-weapon ar calculator
-chalice dungeon glyphs spreadsheet
- the tomb prospectors inspired by fred e riley 
-bloodborne top tier farmable gem chalices
-the bloodborne sheets
-bloodborne cheat sheet
-blank bloodborne checklist
-bb checklist spoiler free version
-bloodborne chalice dungeon list
-featured reddit threads
-syphilis and mercury
- solved the truth behind hunter s dream its books
-arcane the biggest theme of bloodborne lost in translation 
-bloodborne s biggest secret finally revealed nightmare mist
-absolute proof that the dlc research center is in the clocktower behind the main one
-everything to know about chalice dungeon basics
- guide npc loot dupe
- guide chalice dungeons a new player s guide
- guide the vileblood handbook a hunter s guide to bloodtinge
- lore the paleblood hunt finalized and revised with both new and old theories 108 pages on bloodborne s lore characters history and world 
- lore when all is melted in blood all is reborn the terrifying rituals of pthumeru
- spreadsheet the arcanist cookbook
- guide the arcanist 2 0 arcane ing with the old hunters
- mini guide how are blood gems determined 
- guide idiot s guide to damage reduction resistance
-more than meets the eye rune 
-defense s effect on damage 
- guide chalice guide glyphs for pvp
- lore the paleblood hunt an in depth 90 page analysis of bloodborne s lore characters and world 
- lore the hunters hanged men and carryl runes
- guide full moveset damage comparisons for all weapons at 10
-comprehensive list of triggers and locations for sidequests secret items and bosses
-how to farm the best blood gems
-best version of each weapon
-the hunter s guide to beasts and kin part 1
-dearest amelia i fear tonight is my last tomorrow you will be vicar there are things you must know 
-attribute scaling secrets exposed beasts hate him build weapon calculator guide and math inside 
-blood echo farming 30k minute 1 8million hour 
-bloodborne as plague literature
-featured gamefaqs threads
-heavy abyssal ar at 50str 25skl v2
-home
- subscribe to 
-posts atom 
-window onload function document getelementbyid gsc i id1 placeholder search bloodborne wiki 
- window   wavt aouzoy6aoahazcfsmialkmltefyhvdsffw 1706930174275  widgetmanager  init www blogger com rearrange blogid x3d6296044239170440092 www bloodborne wiki com p links html 6296044239170440092  widgetmanager  setdatacontext name blog data blogid 6296044239170440092 title bloodborne wiki url https www bloodborne wiki com p links html canonicalurl https www bloodborne wiki com p links html homepageurl https www bloodborne wiki com searchurl https www bloodborne wiki com search canonicalhomepageurl https www bloodborne wiki com blogspotfaviconurl https www bloodborne wiki com favicon ico bloggerurl https www blogger com hascustomdomain true httpsenabled true enabledcommentprofileimages true gplusviewtype filtered postmod adultcontent false analyticsaccountnumber encoding utf 8 locale en localeunderscoredelimited en languagedirection ltr isprivate false ismobile false ismobilerequest false mobileclass isprivateblog false isdynamicviewsavailable true feedlinks x3clink rel x3d x22alternate x22 type x3d x22application atom xml x22 title x3d x22bloodborne wiki atom x22 href x3d x22https www bloodborne wiki com feeds posts default x22 x3e n x3clink rel x3d x22alternate x22 type x3d x22application rss xml x22 title x3d x22bloodborne wiki rss x22 href x3d x22https www bloodborne wiki com feeds posts default alt x3drss x22 x3e n x3clink rel x3d x22service post x22 type x3d x22application atom xml x22 title x3d x22bloodborne wiki atom x22 href x3d x22https www blogger com feeds 6296044239170440092 posts default x22 x3e n metag adsensehostid ca host pub 1556223355139109 adsensehasads false adsenseautoads false boqcommentiframeform true loginredirectparam view dynamicviewscommentssrc www blogblog com dynamicviews 4224c15c4e7c9321 js comments js dynamicviewsscriptsrc www blogblog com dynamicviews a78904f6d935c498 plusoneapisrc https apis google com js platform js disablegcomments true interstitialaccepted false sharing platforms name get link key link sharemessage get link target name facebook key facebook sharemessage share to facebook target facebook name blogthis key blogthis sharemessage blogthis target blog name twitter key twitter sharemessage share to twitter target twitter name pinterest key pinterest sharemessage share to pinterest target pinterest name email key email sharemessage email target email disablegoogleplus true googleplussharebuttonwidth 0 googleplusbootstrap x3cscript type x3d x22text javascript x22 x3ewindow    gcfg x3d x27lang x27 x27en x27 x3c script x3e hascustomjumplinkmessage false jumplinkmessage read more pagetype static page pageid 3822944582822083022 pagename links pagetitle bloodborne wiki links name features data name messages data edit edit linkcopiedtoclipboard link copied to clipboard ok ok postlink post link name template data name custom localizedname custom isresponsive false isalternaterendering false iscustom true name view data classic name classic url view x3dclassic flipcard name flipcard url view x3dflipcard magazine name magazine url view x3dmagazine mosaic name mosaic url view x3dmosaic sidebar name sidebar url view x3dsidebar snapshot name snapshot url view x3dsnapshot timeslide name timeslide url view x3dtimeslide ismobile false title links description links x26 tools bloodborne wiki xbb links x26 tools source x26verticalseparator edit x26verticalseparator sitemap x26verticalseparator lic featuredimage https blogger googleusercontent com img b r29vz2xl avvxseizfm6admu9rjfs7znhakdu6hx3acyha7hnfrm9auzc oo57olbicduc73afdweyqyiz8vlrtl7hvuhhywc1tz jufms9gxlzyate1j1nsudvzsnwcnanp1czhlfdgwwxuv7ez0hq0tzqhczvuqg4pexyik zai6evhshumdzu7p eerjfgm4ukd aqga s1600 toc button png url https www bloodborne wiki com p links html type item issingleitem true ismultipleitems false iserror false ispage true ispost false ishomepage false isarchive false islabelsearch false pageid 3822944582822083022  widgetmanager  registerwidget  blogview new  widgetinfo blog1 main document getelementbyid blog1 cmtinteractionsenabled false lightboxenabled true lightboxmoduleurl https www blogger com static v1 jsbin 1246064851 lbx js lightboxcssurl https www blogger com static v1 v css 3268905543 lightbox bundle css displaymodefull ----------------------------new request----------------------------
- function var cx 009909572006487121327 bjvowdd9 aq var gcse document createelement script gcse type text javascript gcse async true gcse src https cse google com cse js cx cx var s document getelementsbytagname script 0 s parentnode insertbefore gcse s 
-current game version 
-1 09
-patch live 
-dec 21 2015
-april 13 2023
-no scheduled
-server status 
-online
-index
-contact
-chat
-notes
-contributors
-faqs
-links tools
-return to yharnam 
-2023
-community event taking place from march 24th to april 7th
- ended 
-newest article
- jan 14 2024 
-unique items in chalice dungeons
- introducing bloodborne action rpg from renowned japanese developer fromsoftware makers of the hit demon s souls and dark souls series exclusively on the playstation 4 system face your fears as you search for answers in the ancient city of yharnam now cursed with a strange endemic illness spreading through the streets like wildfire danger death and madness lurk around every corner of this dark and horrific world and you must discover its darkest secrets in order to survive 
-a terrifying new world 
- journey to a horror filled gothic city where deranged mobs and nightmarish creatures lurk around every corner 
-strategic action combat 
- armed with a unique arsenal of weaponry including guns and saw cleavers you ll need wits strategy and reflexes to take down the agile and intelligent enemies that guard the city s dark secrets 
-a new generation of action rpg 
- stunningly detailed gothic environments atmospheric lighting and advanced new online experiences showcase the power and prowess of the playstation r 4 system 
-ever changing chalice dungeons to explore 
- use holy chalices to gain entrance to a network of vast underground ruins filled with traps beasts and rewards to explore and conquer these generated dungeons offer brand new challenges to master and can be uploaded or shared with friends 
-current wiki schedule
-main project adding ng and beyond values to each enemy and boss page 
-checking server erased glyphs in caryll runes 
-done
- and chalice glyphs pages 
-incorporating small twitter updates into the wiki from lance foxy dropoff etc 
- checking for broken links going page by page 
-now 1021
- for fact checks typos grammar errors and design updates 
-recently updated pages
-original japanese item index
- builds
-best blood gems setups
-farming
-challenge runs
-world
-invincibility
-modded save
-art of bloodborne
-ign first coverage
-interviews
-isz glitch
-most visited pages
-best blood gems setups
-chalice dungeons flow chart
-individual blood gems
-old hunter summons
-top tier farmable gem chalices
-the old hunters
-modded save
-save editing chalice dungeons
-hud icons
-data mining
-progression guide
-guidance
-new hunter eh welcome i am gehrman friend to you hunters 
-in fine haze learn to read critical information on your game screen and study numerous game mechanics in 
-game mechanics
- section 
-if you are foreigner to the yharnam lands be sure to visit 
-faqs
- section for beginner tips and to uncover secluded 
-chalice dungeons
-take heed you will find no pause option in bloodborne s 
-controls
- and game does not allow manual saves there is only 
-auto save
-consumables
-materials
-key items
-rh weapons
-lh weapons
-attire
-blood gems
-caryll runes
-chalices
-general information
-home
-sitemap
-expansion
-reviews sales
-game patches
-game mechanics
-controls
-your character
-character classes
-character stats
-character builds
-covenants
-sliders
-equipment
-weapons
-firearms
-shields torches
-armor
-items
-gems materials
-the world
-bosses
-enemies
-merchants
-npcs
-locations
-chalice dungeons
-other information
-world progression
-farming
-trophies
-credits
-art of bloodborne
-unused content
-story prologue
- located in a remote mountainous region far away from the rest of civilization there s the ancient city of yharnam it s a gloomy city where the indigenous faith has given birth to prejudice but it s also known as a center of ancient medical learning many bizarre secrets are hidden within its dark depths 
- however the city is now affected by the horrifying epidemic commonly named the plague of the beast and is now known as a cursed place those afflicted transform into hideous beasts the citizens around are unaware that they too are afflicted even the so called normal humans rare in number might have their own share of abnormalities to contend with deep down 
- today in the city of yharnam the beast hunt happens every night and the streets are filled of the smell of blood beasts and death there s a peculiar atmosphere as the crowds performing the beast hunt wander around the city they walk around with bleary confused eyes with their weapons and torches in their hands 
- the beasts are great in strength and fast on foot it is best to watch the beasts movements and think of the best strategy of how to take them on 
- there are those that burn the bodies of huge beasts a cruel feast unfolds under the beautiful moon but what do these people have in common with the beasts that answer is unknown at this very time 
- there are people who hunt down the beasts for a living and they are called hunters their equipment includes a unique weapon that has the shape of a saw mixed with a hatchet as well as a shotgun to take down the beasts 
- armor is obsolete and so hunters use a different battle technique to fight their battles the shotgun is used for far away encounters whilst their unique weapon is used for up close battles this is how the hunters fight when the time comes to overcome dangerous situation they must persevere to stay alive in many life and death struggles 
- from here on out bet your life as your ghastly battle for your life will begin 
-source
-the true bloodborne starts here 
-unless otherwise stated the content of this website is licensed under 
-creative commons attribution sharealike 3 0 license
- bloodborne wiki com created on february 22nd 2015
-window onload function document getelementbyid gsc i id1 placeholder search bloodborne wiki 
- window   wavt aouzoy5mgoowbevdfwmjxzlphl8 0sc4eq 1706913783202  widgetmanager  init www blogger com rearrange blogid x3d6296044239170440092 www bloodborne wiki com 6296044239170440092  widgetmanager  setdatacontext name blog data blogid 6296044239170440092 title bloodborne wiki url https www bloodborne wiki com canonicalurl https www bloodborne wiki com homepageurl https www bloodborne wiki com searchurl https www bloodborne wiki com search canonicalhomepageurl https www bloodborne wiki com blogspotfaviconurl https www bloodborne wiki com favicon ico bloggerurl https www blogger com hascustomdomain true httpsenabled true enabledcommentprofileimages true gplusviewtype filtered postmod adultcontent false analyticsaccountnumber encoding utf 8 locale en localeunderscoredelimited en languagedirection ltr isprivate false ismobile false ismobilerequest false mobileclass isprivateblog false isdynamicviewsavailable true feedlinks x3clink rel x3d x22alternate x22 type x3d x22application atom xml x22 title x3d x22bloodborne wiki atom x22 href x3d x22https www bloodborne wiki com feeds posts default x22 x3e n x3clink rel x3d x22alternate x22 type x3d x22application rss xml x22 title x3d x22bloodborne wiki rss x22 href x3d x22https www bloodborne wiki com feeds posts default alt x3drss x22 x3e n x3clink rel x3d x22service post x22 type x3d x22application atom xml x22 title x3d x22bloodborne wiki atom x22 href x3d x22https www blogger com feeds 6296044239170440092 posts default x22 x3e n metag x3clink rel x3d x22me x22 href x3d x22https www blogger com profile 11949208083200609477 x22 x3e n adsensehostid ca host pub 1556223355139109 adsensehasads false adsenseautoads false boqcommentiframeform true loginredirectparam view dynamicviewscommentssrc www blogblog com dynamicviews 4224c15c4e7c9321 js comments js dynamicviewsscriptsrc www blogblog com dynamicviews a78904f6d935c498 plusoneapisrc https apis google com js platform js disablegcomments true interstitialaccepted false sharing platforms name get link key link sharemessage get link target name facebook key facebook sharemessage share to facebook target facebook name blogthis key blogthis sharemessage blogthis target blog name twitter key twitter sharemessage share to twitter target twitter name pinterest key pinterest sharemessage share to pinterest target pinterest name email key email sharemessage email target email disablegoogleplus true googleplussharebuttonwidth 0 googleplusbootstrap x3cscript type x3d x22text javascript x22 x3ewindow    gcfg x3d x27lang x27 x27en x27 x3c script x3e hascustomjumplinkmessage false jumplinkmessage read more pagetype index pagename pagetitle bloodborne wiki name features data name messages data edit edit linkcopiedtoclipboard link copied to clipboard ok ok postlink post link name template data name custom localizedname custom isresponsive false isalternaterendering false iscustom true name view data classic name classic url view x3dclassic flipcard name flipcard url view x3dflipcard magazine name magazine url view x3dmagazine mosaic name mosaic url view x3dmosaic sidebar name sidebar url view x3dsidebar snapshot name snapshot url view x3dsnapshot timeslide name timeslide url view x3dtimeslide ismobile false title bloodborne wiki description bloodborne small dedicated community wiki url https www bloodborne wiki com type feed issingleitem false ismultipleitems true iserror false ispage false ispost false ishomepage true isarchive false islabelsearch false  widgetmanager  registerwidget  blogview new  widgetinfo blog1 main document getelementbyid blog1 cmtinteractionsenabled false lightboxenabled true lightboxmoduleurl https www blogger com static v1 jsbin 1246064851 lbx js lightboxcssurl https www blogger com static v1 v css 3268905543 lightbox bundle css displaymodefull ----------------------------new request----------------------------
-skip to main content
-open menu
-open navigation
- snoo cls 1 fill url snoo radial gragient snoo cls 1 snoo cls 2 snoo cls 3 snoo cls 4 snoo cls 5 snoo cls 6 snoo cls 7 snoo cls 8 snoo cls 9 snoo cls 10 snoo cls 11 stroke width 0px snoo cls 2 fill url snoo radial gragient 2 snoo cls 3 fill url snoo radial gragient 3 snoo cls 4 fill url snoo radial gragient 4 snoo cls 5 fill url snoo radial gragient 6 snoo cls 6 fill url snoo radial gragient 8 snoo cls 7 fill url snoo radial gragient 5 snoo cls 8 fill url snoo radial gragient 7 snoo cls 9 fill 842123 snoo cls 10 fill ff4500 snoo cls 11 fill ffc49c 
-go to reddit home
-get app
-get the reddit app
-log in
-log in to reddit
-expand user menu
-open settings menu
-log in sign up
-advertise on reddit
-shop collectible avatars
- get the reddit app 
-scan this qr code to download the app now
- or check it out in the app stores ----------------------------new request----------------------------
- function var cx 009909572006487121327 bjvowdd9 aq var gcse document createelement script gcse type text javascript gcse async true gcse src https cse google com cse js cx cx var s document getelementsbytagname script 0 s parentnode insertbefore gcse s 
-current game version 
-1 09
-patch live 
-dec 21 2015
-april 13 2023
-no scheduled
-server status 
-online
-index
-contact
-chat
-notes
-contributors
-faqs
-links tools
-return to yharnam 
-2023
-community event taking place from march 24th to april 7th
- ended 
-newest article
- jan 14 2024 
-unique items in chalice dungeons
-general information
-home
-sitemap
-expansion
-reviews sales
-game patches
-game mechanics
-controls
-your character
-character classes
-character stats
-character builds
-covenants
-sliders
-equipment
-weapons
-firearms
-shields torches
-armor
-items
-gems materials
-the world
-bosses
-enemies
-merchants
-npcs
-locations
-chalice dungeons
-other information
-world progression
-farming
-trophies
-credits
-art of bloodborne
-unused content
-bloodborne the old hunters collector s edition guides
- future press gone behind the scenes with bloodborne s creators to unearth every secret hidden within the mysterious city of yharnam your hunt through the streets of yharnam will be your most exciting and rewarding journey yet and the road will be hard but fear not these guides are your key to mastering the merciless challenges and navigating the darkest depths of the city 
-more
-bloodborne discord
-tomb prospectors discord
- the old hunters 
-the old hunters
-bloodborne wiki
- the old hunters
- source 
- verticalseparator 
-edit
- verticalseparator 
-sitemap
- verticalseparator 
-license
-page revision 130 last edited 29 dec 2018
-table of contents
-basic information
-table of contents
-list of changes
-how to access
-amygdalae grab dlc access research
-dlc trophies
-dlc notes
-neogaf s the old hunters ot 
-pre release archived information
-basic information
-introduction
- starting 24th november 2015 experience the nightmare of the hunters who once guarded byrgenwerth s deepest darkest secrets and uncover the mystery behind yharnam s sinister past and in the old hunters expansion dlc for bloodborne journey to a world where hunters from the past are trapped forever find multiple new outfits and weapons to add to your hunter arsenal and explore brand new stages full of dangers rewards and deadly beasts to hunt 
-patch 1 07
- prior to the launch of the dlc all bloodborne owners will receive free title 
-update 1 07
- which adds new features and drastically changes the online component of the game the patch goes live november 20 2015 so remember to update your game and try out the new features 
-when to dive in
- although you can access the hunter s nightmare as soon as the game time advances to night tackling the new areas this early would pose a severe challenge you would be at a serious disadvantage against the powerful enemies and bosses that await for a more balanced experience a minimum blood level of 80 with at least one right hand weapon upgraded to 9 is recommended this means either heading into the hunter s nightmare after clearing most of the areas in the main game or after considerable chalice dungeon play that said speedrunners and challenge enthusiasts will find no shortage of opportunities to flex their muscles in these areas by entering as early as possible 
-hunters drunk with blood have lost their dream an endless hunt and the secrets it hides 
-table of contents
-locations
-hunter s nightmare
-research hall
-fishing hamlet
-weapons
-amygdalan arm
-beasthunter saif
-beast cutter
-bloodletter
-boom hammer
-church pick
-holy moonlight sword
-kos parasite
-rakuyo
-simon s bowblade
-whirligig saw
-items
-accursed brew
-blacksky eye
-blood of adeline
-guidance
- caryll rune
-beast s embrace
- caryll rune
-milkweed
- caryll rune
-delayed molotov
-delayed rope molotov
-armor
-brador s set
-butcher set
-constable s set
-decorative old hunter set
-old hunter set
-harrowed set
-maria hunter set
-yamamura hunter set
-brador s testimony
-beast hide garb
-bloodied arm bands
-bloodied trousers
-butcher mask
-butcher garb
-butcher gloves
-butcher trousers
-constable s garb
-constable s gloves
-constable s trousers
-decorative old hunter garb
-decorative old hunter trousers
-enlarged head
-old hunter cap
-old hunter top hat
-old hunter garb
-old hunter gloves
-old hunter trousers
-harrowed hood
-harrowed garb
-harrowed gloves
-harrowed trousers
-maria hunter cap
-maria hunter garb
-maria hunter gloves
-maria hunter trousers
-yamamura hunter hat
-khaki haori
-old hunter arm bands
-wine hakama
-lamps
-hunter s nightmare
-nightmare church
-underground corpse pile
-nightmare grand cathedral
-research hall
-lumenwood garden
-astral clocktower
-fishing hamlet
-lighthouse hut
-coast
-off hand
+name
+damage
+qs bullet use
+durability
+stats needed
+ stat bonuses
+special attack
+availability
+special note
+hunter blunderbuss
+ 20 
+ blood 
+1
+150
+7 9 5 
+ d 
+ 100 100
+starting firearm 
+hunter s dream
+sold by 
+bath messenger
+starting gift from messengers
+available after obtaining 
+saw hunter badge
+hunter pistol
+ 70 
+ blood 
+1
+100
+7 9 5 
+ d 
+ 100 100
+starting firearm 
+hunter s dream
+sold by 
+bath messenger
+starting gift from messengers
+available after obtaining 
+saw hunter badge
+flamesprayer
+ 45 
+ fire 
+1
+100
+ 8 8
+ d
+ 100 100
+sold by 
+bath messenger
+given by gilbert
+available after obtaining 
+radiant sword hunter badge
+repeating pistol
+ 90 
+ blood 
+2
+80
+10 11 8 
+ d 
+ 100 100
+sold by 
+bath messenger
+available after obtaining 
+sword hunter badge
+cannon
+ 200 
+ blood 
+12
+200
+30 13 
+ e 
+ 100 100
+sold by 
+bath messenger
+treasure in 
+forbidden woods
+available for purchase after obtaining the weapon
+ludwig s rifle
+ 20 
+ blood 
+1
+150
+9 10 9 
+ e 
+ 100 100
+sold by 
+bath messenger
+available after obtaining 
+radiant sword hunter badge
+evelyn
+ 60 
+ blood 
+1
+100
+9 11 18 
+ b 
+ 100 100
+sold by 
+bath messenger
+treasure in cainhurst castle
+available after obtaining 
+cainhurst badge
+rosmarinus
+ 30 
+ arcane 
+1
+100
+ 8 8
+ b
+ 100 100
+sold by 
+bath messenger
+available after obtaining 
+cosmic eye watcher badge
+the old hunters expansion left hand weapons
+image
+name
+damage
+qs bullet use
+durability
+stats needed
+ stat bonuses
+special attack
+availability
+special note
 church cannon
+ 160 
+ blood 
+10
+200
+27 16 
+ e 
+ 100 100
+treasure in 
+hunter s nightmare
+available for purchase after obtaining the weapon
 fist of gratia
-loch shield
+60 
+ blunt 
+200
+7 9 5 
+ c 
+ 100 100
+treasure in 
+hunter s nightmare
+available for purchase after obtaining the weapon
 piercing rifle
-gatling gun
-key items
-brain fluid
-eye of a blood drunk hunter
-balcony key
-celestial dial
-astral clocktower key
-underground cell inner chamber key
-underground cell key
-laurence s skull
-eye pendant
+ 80 
+ blood 
+1
+140
+9 10 9 
+ d 
+ 100 100
+sold by 
+bath messenger
+available for purchase after obtaining 
 firing hammer badge
-bosses
-ludwig the holy blade
-orphan of kos
-lady maria of the astral clocktower
-living failures
-laurence the first vicar
-npcs
-brador church assassin
-simon seeker of secrets
-adeline research hall patient
-fishing hamlet priest
-yamamura the wanderer
- ludwig the holy blade head 
-regular enemies
- huntsman delayed molotov 
-old hunter s hound
-old hunter b cutter 
-old hunter b saif 
-old hunter b saif rifle 
-old hunter b hammer 
- clocktower patient fists 
-clocktower patient a bottles 
-clocktower patient i hand 
-clocktower patient crawling 
-clocktower patient leaping 
- clocktower patient headless 
-clocktower patient head 
-fishman melee harpoon 
-fishman ranged harpoon 
-fishman twin rakes 
-fishman rake awl 
-fishman cleaver 
-fishman mage curse 
-fishman mage staff 
-fish dog
-snail woman bare 
-snail woman shell 
-wheelchair huntsman rosm 
-strong enemies
-nightmare executioner axe 
-nightmare executioner church cannon 
-bloodlicker
-clocktower patient t stand 
-clocktower patient magic 
-giant fishman fists 
-giant fishman anchor 
-hunter enemies
+gatling gun
+ 80 
+ blood 
+1
+200
+28 12 
+ e 
+ 100 100
+acquired from killing 
 djura s disciple
-bestial hunter
-church doctor ludwig s holy blade repeating pistol 
-church doctor threaded cane 
-yahar gul hunter church pick repeating pistol 
-church doctor threaded cane repeating pistol 
-brador church assassin
-list of changes
-being grabbed by amygdalae false god near oedon chapel well in cathedral ward will transport you into the hunter s nightmare area if you have 
-eye of a blood drunk hunter
- item in your inventory
-added new dialogues for the 
-doll
- after defeating 
-lady maria of the astral clocktower
-added new dialogues for the 
-doll
- after defeating 
-orphan of kos
-note
- if you have already killed 
-mergo s wet nurse
- doll will not provide you with these two pieces of dialogue and will point you to the end game instead 
-how to access
-step 1
-defeat the boss of the 
- cathedral ward
- and examine the altar in the back of the room to change the in game time to night 
-step 2
-go to the 
- hunter s dream
- and receive the 
-eye of a blood drunk hunter
- from a messenger 
-step 3
-go to the oedon chapel and leave via the left hand exit to enter the square 
-new game 
-if you start a new game you will have to perform all the steps necessary to access the old hunters content again 
-step 4
-go to the right hand end of the square to trigger an event this event will take you to the new area the 
- hunter s nightmare
-step 5
-lighting the lamp in the new area will allow you to travel to and from the area via an awakening headstone in the 
- hunter s dream
-note
-if the 
-eye of a blood drunk hunter
- isn t showing up go to settings playstation network account management restore licenses
-amygdalae grab dlc access research
-when 
-adella nun of the healing church
- is set to kill you outside of oedon chapel she can get grabbed by the amygdalae and it throws you into the dlc 
-video 01
-video 02
- if you in current patch perform 
-vicar amelia skip
- to keep the bells active defeat rom to spawn the eye of the blood drunk hunter in the hunter s dream this happens because the blood moon is after night time which is triggered by laurence s skull by doing this it was proved that amygdalae grabbing cooperators will trigger the dlc cutscene and transfer you into hunter s nightmare while adversaries red purple not 
-video 01
-video 02 cooperator pov
-dlc trophies
-image
-trophy
-detail
-type
-old hunter s essence
-acquire all old hunter weapons 
-obtaining a normal hunter s essence is no longer considered the pinnacle of what it means to be a true hunter to reach that lofty goal you ll need to delve deep into the nightmare to experience all that it has to offer only then can you tap into the old hunter s es sence unlocking this trophy will require you to fully explore each of the new areas to find all of the hidden weapons and defeat some of the toughest foes the game has to offer right hand weapons amygdalan arm beasthunter saif beast cutter bloodletter boom hammer church pick holy moonlight sword kos parasite rakuyo simon s bowblade whirligig saw left hand weapons church cannon fist of gratia loch shield piercing rifle gatling gun 
-orphan of kos
-defeat great one orphan of kos 
-be prepared plan ahead and prepare to die this will be one of the hardest trophies to earn across both the main game and the old hunters be patient and learn kos s patterns eventually you will know when to evade and when to interrupt bring a very powerful weapon to take full advantage of each opening orphan of kos is a trophy hard won only the best hunters will manage it 
-ludwig the holy blade
-defeat the beast that was once ludwig the holy blade 
-ludwig can be a very difficult fight so it s recommended that you go to the forbidden woods and speak with valtr to join the league and get the impurity caryll rune with that rune equipped you ll be able to summon valtr and younger twin madaras to aid you in the boss fight making it much easier they will provide a much stronger assistance against ludwig than old hunter henriett who can be summoned behind the nightmare church after defeating him either cleave his remaining head or wear church garb and speak to it answering yes to his question to receive the holy moonlight sword which you ll need for the old hunter s essence trophy 
-lady maria of the astral clocktower
-defeat lady maria of the astral clocktower 
-you ll be able to face lady maria straight after beating the living failures and she is a powerful and relentless foe make sure to bring a left handed firearm that is good for interrupts as they ll offer one of the best ways of damaging her if you have more than one clawmark caryll rune it s worth stacking them on your character at the memory altar in the hunter s dream to increase your visceral attack damage after an interrupt 
-living failures
-defeat the failed attempts to become great ones 
-to reach the living failures you ll need to make your way to the very top of the research hall and activate the staircase mechanism to move the stairs only then will you be able to access the door to this boss if you have killed yamamura in his cell thus freeing him from captivity you will be able to summon him outside the en trance to the boss area and he can assist you greatly in this battle 
-laurence the first vicar
-defeat the beast that was once laurence the first vicar 
-before you can face laurence in battle you must first find his skull which is well hidden on a secret altar beneath the surgery altar in the recovery room to access the hidden altar you will need to step onto the surgery altar so that it starts to go up and then quickly run off it so that you land back in the room once the elevator comes to a stop the hidden altar will be revealed and you ll be able to recover laurence s skull with the skull in hand you ll be able to initiate the battle with laurence by returning it to him in the nightmare grand cathedral which of course is in the hunter s nightmare the mighty valtr can once again aid you in this battle if you have joined the league and have the impurity rune equipped you ll find his summon sign just inside the cathedral 
-dlc notes
-it s also possible to unlock certain main game trophies within the realms of the old hunters blood gem master can be attained by collecting any of the warm blood gem drops you ll get from killing the bloodlickers on the river of blood in the hunter s nightmare area rune master can be unlocked by collecting the caryll rune dropped by ludwig the accursed when you defeat him the blood rock in the breeding pit below the fishing hamlet provides you with an alternate means of getting a weapon to 10 for the weapon master trophy 
- neogaf s the old hunters ot 
-robot pants
-click to expand collapse
- pre release archived information
-click to expand collapse
-sources
- official eu playstation blog 
-bloodborne expansion the old hunters launches on 24th november
- official jp website 
-the old hunters
- dualshockers 
-bloodborne expansion playable at tgs 2015
- gamersyde 
-the old hunters uncompressed 1080p trailer
- gamersyde 
-high resolution screens and art
- gamersyde 
-bloodborne the old hunters tgs showfloor gameplay 1
-mirror download page
- translation of in game text area 狩人の悪夢 
- hunter s nightmare 
- boss cut scene dialogue 
- y you there help me please hes coming that wretched beast ahh the cursed ludwig 
- ty 
- u parasite242
- gamersyde 
-bloodborne the old hunters tgs showfloor gameplay 2
-mirror download page
- fextralife 
-bloodborne the old hunters hands on gameplay impressions tgs 2015
- preset classes in the demo charred hunter harrowed man mensis scholar 
- fextralife 
-bloodborne the old hunters dlc gameplay tgs 2015
- dualshockers 
-bloodborne the old hunters gameplay on ps4 tokyo game show 2015
- fextralife 
-summon npc old hunter yamamura tgs 2015 
-simon s bowblade moveset tgs 2015
- threaded club moveset tgs 2015
- eurogamer 
-bloodborne s two planned dlc packs have been combined in the substantial the old hunters
- dualshockers 
-bloodborne the old hunters ps4 new weapon kemononikutachi and boss kill
- 4gamer net 
-bloodborne the old hunters ｰ tgs 2105 ver 
- dualshockers 
-bloodborne the old hunters ps4 gameplay from tgs 2015 new weapon
- niconico 
-bloodborne the old hunters gameplay and boss fight tgs 2015
- gamespot 
-bloodborne the old hunters number of weapons difficulty and other secrets
- bloodborne official twitter 
-bloodborne threaded club image
- official jp website 
-bloodborne the old hunters faq
- official ps website 
-the old hunters page
- bloodborne official twitter 
-bonjour paris 
- masaaki yamagiwa 
-bloodborne the old hunters edition
- dualshockers 
-bloodborne the old hunters check out 45 minutes of gameplay saw mill weapon detailed
- famitsu 
-bloodborne the old hunters famitsu magazine scan
- masaaki yamagiwa 
-holy moonlight sword
- ps blog 
-bloodborne patch details new screenshot from the old hunters
- dualshockers 
-bloodborne check out the first ps4 gameplay footage of the next free update
- famitsu 
-bloodborne the old hunters new famitsu scan
-dualshockers
- ps blog 
-bloodborne the old hunters out tuesday patch 1 07 detailed
-description
-starting 24th november download the bloodborne dlc expansion the old hunters and uncover the forgotten tales of these brutal hunters trusted with guarding the terrible secrets of byrgenwerth and keeping the dreadful truth of blood healing hidden 
-venture into three new and perilous hunting grounds the hunter s nightmare research hall and the fishing hamlet add new outfits and deadly weapons to your inventory and master unholy magic to face the horrors that lurk in these hunting grounds and try to harness your transformation into the beast 
-with new story details learn the tale of hunters who once made yharnam their hunting grounds meet new npcs and discover another side of the history and world of bloodborne here s a brief glimpse of just some of what lies in store for you when the old hunters launches on 24th november including simon s bowblade weapon and new boss enemy ludwig 
-the old hunters edition
-releasing on 3rd december 2015 exclusively in japan
-the old hunters ps page information
-uncover yharnam s dark past
-experience the nightmare of the hunters who once guarded byrgenwerth s deepest darkest secrets and uncover the mystery behind yharnam s sinister past and in the old hunters expansion dlc for bloodborne journey to a world where hunters from the past are trapped forever find multiple new outfits and weapons to add to your hunter arsenal and explore brand new stages full of dangers rewards and deadly beasts to hunt 
-new world
-the hunters nightmare
-a world drenched in blood lit by a possessed moon its light shows familiar buildings half swallowed by sludge leaning over distorted it is here that hunters of old riddled by nightmares endlessly pursue beasts 
-new area
-astral clock tower
-a massive tall gothic structure towers upward towards the moonlit sky wind blowing through its ornate corridors steeped in mystery 
-new hunters
-encounter a variety of new hunters allies including some that hail from the far east what horrors have they seen trapped in this eternal nightmare 
-new enemies
-trapped inside this nightmare world some hunters lost their minds to the hunt no longer able to tell beast from friend they roam the nightmare aimlessly and kill anything that crosses their path beware for they continue to wield their deadly hunter weapons 
-horrific beast
-ludwig
-the holier the man the more horrific the beast he becomes this case is no different where a once famed hero has turned but now it has forgotten the guiding light and crawls the blood drenched depths as something that can barely be called even a beast anymore 
-new weapon
-simon s bowblade
-one among the hunters of old did not like firearms this special transforming bow was custom built just for him but there is a saying facing a beast with only a bow is 
-new magic
-blacksky eye
-firing the concentrated light of a small comet from the eyes this unseen art is a secret ritual of the church if you look close enough you may find that the hunter s nightmare holds many such forgotten secrets 
-the old hunters faq
-q what kind of content is included with the bloodborne the old hunters expansion 
-a the old hunters expansion depicts a nightmare world where the old hunters are captured it includes new areas weapons mysteries items and costumes 
-q can you play the bloodborne the old hunters expansion without having the original bloodborne game 
-a no you will not be able to play without the original bloodborne game 
-q can users who have installed the expansion interact online with other players who have not 
-a just as it is now all players will be able to interact online in the areas from the original game online interaction in the expansion s additional areas will only be possible among players who have the expansion installed 
-q how do you access the bloodborne the old hunters expansion 
-a once you reach a certain point in bloodborne the item eye of a blood drunk hunter appears in the hunter s dream once you have acquired this item you will be able to access the newly added areas in the expansion 
-q can you use the save data from a cleared game of bloodborne 
-a yes also if you are replaying the game and progress to a certain point you will be able to access the newly added areas in the expansion once you acquire the eye of a blood drunk hunter 
-q will there be trophies added in the bloodborne the old hunters expansion 
-a yes trophies will be added 
-q will you not be able to complete the story if you do not play the added content from the bloodborne the old hunters expansion 
-a no you can still get to the ending without playing the new content in the expansion 
-bloodborne the old hunters tgs 2015 trailer
-screens
-art
-newer post
-older post
+available for purchase after obtaining the weapon
+firearm data
+name
+requirements
+damage
+scaling
+hunter pistol
+ 7 
+ 9 
+ 5 
+ 160 
+ 0 85 
+hunter blunderbuss
+ 7 
+ 9 
+ 5 
+ 45 
+ 1 0 
+repeating pistol
+ 10 
+ 11 
+ 8 
+ 200 
+ 0 8 
+ludwig s rifle
+ 9 
+ 10 
+ 9 
+ 55 
+ 0 5 
+piercing rifle
+ 9 
+ 10 
+ 9 
+ 160 
+ 1 0 
+evelyn
+ 9 
+ 11 
+ 18 
+ 140 
+ 1 35 
+cannon
+ 30 
+ 13 
+ 600 
+ 0 4 
+gatling gun
+ 28 
+ 12 
+ 180 
+ 0 4 
+church cannon
+ 27 
+ 16 
+ 480 
+ 0 5 
+flamesprayer
+ 8 
+ 8 
+ 95 
+ 0 7 
+rosmarinus
+ 8 
+ 8 
+ 80 
+ 1 21 
+fist of gratia
+ 7 
+ 9 
+ 5 
+ 130 
+ 1 0 
+frame data
+pistols
+rifles
+cannons
+continuous fire
+hunter pistol repeating pistol evelyn
+h blunderbuss ludwig s rifle p rifle
+cannon church cannon
+flamesprayer rosmarinus gatling gun
+ for all pistols the muzzle flash occurs on frame 
+10
+ with the bullet firing on frame 
+11
+ the total time for all pistols is 
+60
+ frames total 
+ the muzzle flash occurs on frame 
+10
+ with the bullet firing on frame 
+12
+ the blunderbuss animation takes 
+60
+ frames total while ludwig s rifle and the piercing rifle take 
+65
+ frames 
+ both cannons have a muzzle flash and fire their projectiles on frame 
+15
+ the cannon animation takes 
+95
+ frames total and the church cannon animation takes 
+75
+ the flamesprayer and the rosmarinus begin firing on frame 
+6
+ the gatling gun begins firing after 
+18
+ frames firing a single shot from the flamesprayer or rosmarinus lasts 
+20
+ frames total firing a single shot from the gatling gun takes 
+45
+ frames total 
+key
+damage
+requirements
+stat bonuses
+special attack
+ the damage stat dictates how much damage the weapon does the damage stats for a weapon are 
+v
+w
+x
+y
+z
+v
+ is 
+physical
+ damage
+w
+ is 
+blood
+ damage
+x
+ is 
+arcane
+ damage
+y
+ is 
+fire
+ damage
+z
+ is 
+bolt
+ damage
+ the requirements determines how high various stats must be in order to wield the weapon effectively the requirement stats for a weapon are 
+w
+x
+y
+z
+w
+ is the 
+strength
+ required
+x
+ is the 
+skill
+ required
+y
+ is the 
+bloodtinge
+ required
+z
+ is the 
+arcane
+ required
+ the stat bonuses rating indicates the level of bonus you receive based on the associated stat when you use a weapon this rating can be 
+s
+a
+b
+c
+d
+ or 
+e
+in order from most to least bonus for the associated stat
+ for more information about the scaling as a whole and its values visit the 
+scaling
+ wiki page 
+ the special attack attributes for a weapon are 
+w
+x
+y
+z
+w
+ is the 
+slow poison
+ attack
+x
+ is the 
+rapid poison
+ attack
+y
+ is the 
+vs kin
+ attack
+z
+ is the 
+vs beasts
+ attack
 home
+ subscribe to 
+posts atom 
 window onload function document getelementbyid gsc i id1 placeholder search bloodborne wiki 
- window   wavt aouzoy61whaqijrowtfeqxqstuwlqlstpq 1706930176043  widgetmanager  init www blogger com rearrange blogid x3d6296044239170440092 www bloodborne wiki com 2015 09 the old hunters html 6296044239170440092  widgetmanager  setdatacontext name blog data blogid 6296044239170440092 title bloodborne wiki url https www bloodborne wiki com 2015 09 the old hunters html canonicalurl https www bloodborne wiki com 2015 09 the old hunters html homepageurl https www bloodborne wiki com searchurl https www bloodborne wiki com search canonicalhomepageurl https www bloodborne wiki com blogspotfaviconurl https www bloodborne wiki com favicon ico bloggerurl https www blogger com hascustomdomain true httpsenabled true enabledcommentprofileimages true gplusviewtype filtered postmod adultcontent false analyticsaccountnumber encoding utf 8 locale en localeunderscoredelimited en languagedirection ltr isprivate false ismobile false ismobilerequest false mobileclass isprivateblog false isdynamicviewsavailable true feedlinks x3clink rel x3d x22alternate x22 type x3d x22application atom xml x22 title x3d x22bloodborne wiki atom x22 href x3d x22https www bloodborne wiki com feeds posts default x22 x3e n x3clink rel x3d x22alternate x22 type x3d x22application rss xml x22 title x3d x22bloodborne wiki rss x22 href x3d x22https www bloodborne wiki com feeds posts default alt x3drss x22 x3e n x3clink rel x3d x22service post x22 type x3d x22application atom xml x22 title x3d x22bloodborne wiki atom x22 href x3d x22https www blogger com feeds 6296044239170440092 posts default x22 x3e n n x3clink rel x3d x22alternate x22 type x3d x22application atom xml x22 title x3d x22bloodborne wiki atom x22 href x3d x22https www bloodborne wiki com feeds 8475016912342482456 comments default x22 x3e n metag adsensehostid ca host pub 1556223355139109 adsensehasads false adsenseautoads false boqcommentiframeform true loginredirectparam view dynamicviewscommentssrc www blogblog com dynamicviews 4224c15c4e7c9321 js comments js dynamicviewsscriptsrc www blogblog com dynamicviews a78904f6d935c498 plusoneapisrc https apis google com js platform js disablegcomments true interstitialaccepted false sharing platforms name get link key link sharemessage get link target name facebook key facebook sharemessage share to facebook target facebook name blogthis key blogthis sharemessage blogthis target blog name twitter key twitter sharemessage share to twitter target twitter name pinterest key pinterest sharemessage share to pinterest target pinterest name email key email sharemessage email target email disablegoogleplus true googleplussharebuttonwidth 0 googleplusbootstrap x3cscript type x3d x22text javascript x22 x3ewindow    gcfg x3d x27lang x27 x27en x27 x3c script x3e hascustomjumplinkmessage false jumplinkmessage read more pagetype item postid 8475016912342482456 postimagethumbnailurl https blogger googleusercontent com img b r29vz2xl avvxseizfm6admu9rjfs7znhakdu6hx3acyha7hnfrm9auzc oo57olbicduc73afdweyqyiz8vlrtl7hvuhhywc1tz jufms9gxlzyate1j1nsudvzsnwcnanp1czhlfdgwwxuv7ez0hq0tzqhczvuqg4pexyik zai6evhshumdzu7p eerjfgm4ukd aqga s72 c toc button png postimageurl https blogger googleusercontent com img b r29vz2xl avvxseizfm6admu9rjfs7znhakdu6hx3acyha7hnfrm9auzc oo57olbicduc73afdweyqyiz8vlrtl7hvuhhywc1tz jufms9gxlzyate1j1nsudvzsnwcnanp1czhlfdgwwxuv7ez0hq0tzqhczvuqg4pexyik zai6evhshumdzu7p eerjfgm4ukd aqga s1600 toc button png pagename the old hunters pagetitle bloodborne wiki the old hunters name features data name messages data edit edit linkcopiedtoclipboard link copied to clipboard ok ok postlink post link name template data name custom localizedname custom isresponsive false isalternaterendering false iscustom true name view data classic name classic url view x3dclassic flipcard name flipcard url view x3dflipcard magazine name magazine url view x3dmagazine mosaic name mosaic url view x3dmosaic sidebar name sidebar url view x3dsidebar snapshot name snapshot url view x3dsnapshot timeslide name timeslide url view x3dtimeslide ismobile false title the old hunters description the old hunters bloodborne wiki xbb the old hunters source x26verticalseparator edit x26verticalseparator sitemap x26verticalseparator featuredimage https blogger googleusercontent com img b r29vz2xl avvxseizfm6admu9rjfs7znhakdu6hx3acyha7hnfrm9auzc oo57olbicduc73afdweyqyiz8vlrtl7hvuhhywc1tz jufms9gxlzyate1j1nsudvzsnwcnanp1czhlfdgwwxuv7ez0hq0tzqhczvuqg4pexyik zai6evhshumdzu7p eerjfgm4ukd aqga s1600 toc button png url https www bloodborne wiki com 2015 09 the old hunters html type item issingleitem true ismultipleitems false iserror false ispage false ispost true ishomepage false isarchive false islabelsearch false postid 8475016912342482456  widgetmanager  registerwidget  blogview new  widgetinfo blog1 main document getelementbyid blog1 cmtinteractionsenabled false lightboxenabled true lightboxmoduleurl https www blogger com static v1 jsbin 1246064851 lbx js lightboxcssurl https www blogger com static v1 v css 3268905543 lightbox bundle css displaymodefull 
+ window   wavt aouzoy7edwulqqdhttgjvhot89lqqxhfjq 1707187332312  widgetmanager  init www blogger com rearrange blogid x3d6296044239170440092 www bloodborne wiki com p firearms html 6296044239170440092  widgetmanager  setdatacontext name blog data blogid 6296044239170440092 title bloodborne wiki url https www bloodborne wiki com p firearms html canonicalurl https www bloodborne wiki com p firearms html homepageurl https www bloodborne wiki com searchurl https www bloodborne wiki com search canonicalhomepageurl https www bloodborne wiki com blogspotfaviconurl https www bloodborne wiki com favicon ico bloggerurl https www blogger com hascustomdomain true httpsenabled true enabledcommentprofileimages true gplusviewtype filtered postmod adultcontent false analyticsaccountnumber encoding utf 8 locale en localeunderscoredelimited en languagedirection ltr isprivate false ismobile false ismobilerequest false mobileclass isprivateblog false isdynamicviewsavailable true feedlinks x3clink rel x3d x22alternate x22 type x3d x22application atom xml x22 title x3d x22bloodborne wiki atom x22 href x3d x22https www bloodborne wiki com feeds posts default x22 x3e n x3clink rel x3d x22alternate x22 type x3d x22application rss xml x22 title x3d x22bloodborne wiki rss x22 href x3d x22https www bloodborne wiki com feeds posts default alt x3drss x22 x3e n x3clink rel x3d x22service post x22 type x3d x22application atom xml x22 title x3d x22bloodborne wiki atom x22 href x3d x22https www blogger com feeds 6296044239170440092 posts default x22 x3e n metag adsensehostid ca host pub 1556223355139109 adsensehasads false adsenseautoads false boqcommentiframeform true loginredirectparam view dynamicviewscommentssrc www blogblog com dynamicviews 4224c15c4e7c9321 js comments js dynamicviewsscriptsrc www blogblog com dynamicviews a78904f6d935c498 plusoneapisrc https apis google com js platform js disablegcomments true interstitialaccepted false sharing platforms name get link key link sharemessage get link target name facebook key facebook sharemessage share to facebook target facebook name blogthis key blogthis sharemessage blogthis target blog name twitter key twitter sharemessage share to twitter target twitter name pinterest key pinterest sharemessage share to pinterest target pinterest name email key email sharemessage email target email disablegoogleplus true googleplussharebuttonwidth 0 googleplusbootstrap x3cscript type x3d x22text javascript x22 x3ewindow    gcfg x3d x27lang x27 x27en x27 x3c script x3e hascustomjumplinkmessage false jumplinkmessage read more pagetype static page pageid 7802813046123417800 pagename firearms pagetitle bloodborne wiki firearms name features data name messages data edit edit linkcopiedtoclipboard link copied to clipboard ok ok postlink post link name template data name custom localizedname custom isresponsive false isalternaterendering false iscustom true name view data classic name classic url view x3dclassic flipcard name flipcard url view x3dflipcard magazine name magazine url view x3dmagazine mosaic name mosaic url view x3dmosaic sidebar name sidebar url view x3dsidebar snapshot name snapshot url view x3dsnapshot timeslide name timeslide url view x3dtimeslide ismobile false title firearms description firearms bloodborne wiki xbb firearms source x26verticalseparator edit x26verticalseparator sitemap x26verticalseparator license page featuredimage https blogger googleusercontent com img b r29vz2xl avvxseizfm6admu9rjfs7znhakdu6hx3acyha7hnfrm9auzc oo57olbicduc73afdweyqyiz8vlrtl7hvuhhywc1tz jufms9gxlzyate1j1nsudvzsnwcnanp1czhlfdgwwxuv7ez0hq0tzqhczvuqg4pexyik zai6evhshumdzu7p eerjfgm4ukd aqga s1600 toc button png url https www bloodborne wiki com p firearms html type item issingleitem true ismultipleitems false iserror false ispage true ispost false ishomepage false isarchive false islabelsearch false pageid 7802813046123417800  widgetmanager  registerwidget  blogview new  widgetinfo blog1 main document getelementbyid blog1 cmtinteractionsenabled false lightboxenabled true lightboxmoduleurl https www blogger com static v1 jsbin 1246064851 lbx js lightboxcssurl https www blogger com static v1 v css 3268905543 lightbox bundle css displaymodefull 
+
+
+ ----------------------------------------
+if condition met
