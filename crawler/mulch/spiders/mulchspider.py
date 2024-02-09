@@ -2,6 +2,7 @@ import scrapy
 from scrapy.linkextractors import LinkExtractor
 import re
 import csv
+import os ###
 
 class MulchSpider(scrapy.Spider):
     name = "mulch"
@@ -23,7 +24,7 @@ class MulchSpider(scrapy.Spider):
             self.count += 1
 
         self.urls = self.urls[1:] 
-
+        
 
     def parse(self, response):
         texts = response.xpath("//body//text()").getall()
@@ -41,7 +42,7 @@ class MulchSpider(scrapy.Spider):
         self.explored_links.append(self.urls[0])
 
         #next node
-        while (len(self.urls) > 0 and self.count < 10):
+        while (len(self.urls) > 0 and self.count < 5):
             yield from self.start_requests() 
 
         #writing output
@@ -78,12 +79,13 @@ class MulchSpider(scrapy.Spider):
             wr.writerow(list)
 
     #returns list
+    #WORKS
     @classmethod
     def readCSV(cls, filepath):
         list = []
         with open(filepath, newline='') as csvfile:
-            reader = csv.reader(csvfile, delimiter=' ', quotechar='|')
+            reader = csv.reader(csvfile, delimiter=',', quotechar='|')
             for row in reader:
-                list.append(row)
+                list.extend(row)
 
         return list
