@@ -7,6 +7,6 @@ import scrapy
 
 
 class MulchItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+    url = scrapy.Field()
+    text = scrapy.Field()
+    keywords = scrapy.Field()

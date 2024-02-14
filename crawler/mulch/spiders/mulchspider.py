@@ -1,16 +1,17 @@
 import scrapy
 from scrapy.linkextractors import LinkExtractor
+from mulch.items import MulchItem
 import re
 import csv
-import os ###
+
 
 class MulchSpider(scrapy.Spider):
     name = "mulch"
-    urls = ["https://www.bloodborne-wiki.com/p/story.html",
-            "https://www.bloodborne-wiki.com/p/firearms.html"]
+    urls = ["https://www.ncbi.nlm.nih.gov/"]
     count = 0
     link_extractor = LinkExtractor()
     explored_links = []
+    keyword = "hunter"
     text_out = ""
     #implement visited links
 
@@ -32,8 +33,14 @@ class MulchSpider(scrapy.Spider):
 
         #record content of current node
         texts = MulchSpider.cleanString(texts)
-        #texts = filter(lambda text: "vergil" in text, texts)  #define how to filter text
-        self.text_out = self.text_out + "\n".join(texts)
+        texts = filter(lambda text: self.keyword in text, texts)  #define how to filter text
+        for text in texts:
+            item = MulchItem()
+            item["url"] = response.url
+            item["text"] = text
+            item["keywords"] = self.keyword
+            yield item
+        # self.text_out = self.text_out + "\n".join(texts)
 
         #explore current node
         for link in links:
@@ -41,17 +48,16 @@ class MulchSpider(scrapy.Spider):
                 self.urls.append(link.url)  
         self.explored_links.append(self.urls[0])
 
+
         #next node
-        while (len(self.urls) > 0 and self.count < 5):
+        while (len(self.urls) > 0):
             yield from self.start_requests() 
 
         #writing output
-        f = open("output.txt", "w", encoding="utf-8")
-        f.write(self.text_out)
+        # f = open("output.txt", "w", encoding="utf-8")
+        # f.write(self.text_out)
 
-        self.writeCSV(self.explored_links)
-
-
+        # self.writeCSV(self.explored_links)
 
 
     #param: a list of strings
@@ -77,6 +83,7 @@ class MulchSpider(scrapy.Spider):
         with open('CSVtest.csv', 'w', encoding="utf-8") as CSVtest:
             wr = csv.writer(CSVtest, quoting=csv.QUOTE_NONE)
             wr.writerow(list)
+
 
     #returns list
     #WORKS
