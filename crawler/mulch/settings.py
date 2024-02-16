@@ -19,6 +19,7 @@ NEWSPIDER_MODULE = "mulch.spiders"
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
 
+
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
 
@@ -91,3 +92,8 @@ ITEM_PIPELINES = {
 REQUEST_FINGERPRINTER_IMPLEMENTATION = "2.7"
 TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 FEED_EXPORT_ENCODING = "utf-8"
+
+# logging
+LOG_FILE = "logging.log"
+LOG_FILE_APPEND = False
+LOG_LEVEL = "WARNING"

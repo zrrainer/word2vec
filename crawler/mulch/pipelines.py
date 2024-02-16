@@ -7,15 +7,16 @@
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
 import mysql.connector
-import csv
+import logging
 
 
 class MulchPipeline:
+    #logging.basicConfig(encoding='utf-8', level=logging.INFO)
     log = ""
 
     def open_spider(self, spider):
-        self.log = ""
-        self.log = self.log + "spider opened \n"
+        logging.warning("spider opened")
+
         self.connection = mysql.connector.connect(
             user = "rainer",
             password = "13667090887Awa.",
@@ -36,34 +37,27 @@ class MulchPipeline:
         self.cursor.close()
         self.connection.close()
 
-        self.log = self.log + "spider closed \n"
+        logging.info("spider closed")
 
         f = open("output.txt", "w", encoding="utf-8")
         f.write(self.log)
-
-
 
 
 
     def process_item(self, item, spider):
-        self.log = self.log + """processing item: \n
-    
-            INSERT INTO TABLE mulch(url,text,keywords) VALUES(\n
-                \"""" + item["url"] + """\",\n
-                \"""" + item["text"] + """\",\n
-                \"""" + item["keywords"] + """\"\n\n
-            )"""
-        f = open("output.txt", "w", encoding="utf-8")
-        f.write(self.log)
+
+        logging.warning(f"""processing item: \n  
+                        INSERT INTO mulch(url,text,keywords) VALUES( \n 
+                        {item["url"]}, \n 
+                        {item["text"]}, \n 
+                        {item["keywords"]})""")
 
 
 
-        self.cursor.execute("""
-            INSERT INTO TABLE mulch(url,text,keywords) VALUES(\n
-                \"""" + item["url"] + """\",\n
-                \"""" + item["text"] + """\",\n
-                \"""" + item["keywords"] + """\"\n\n
-            )""")
+        self.cursor.execute(f"""INSERT INTO mulch(url,text,keywords) VALUES( \n 
+                        {item["url"]}, \n 
+                        {item["text"]}, \n 
+                        {item["keywords"]});""")
         self.connection.commit()
 
         return item

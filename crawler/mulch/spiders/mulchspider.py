@@ -3,6 +3,7 @@ from scrapy.linkextractors import LinkExtractor
 from mulch.items import MulchItem
 import re
 import csv
+import logging
 
 
 class MulchSpider(scrapy.Spider):
@@ -11,13 +12,16 @@ class MulchSpider(scrapy.Spider):
     count = 0
     link_extractor = LinkExtractor()
     explored_links = []
-    keyword = "hunter"
+    keyword = "a"
     text_out = ""
     #implement visited links
 
 
 
     def start_requests(self):
+        
+        #self.logger.info("start request")
+
         url = self.urls[0]
 
         if url not in self.explored_links:
@@ -28,6 +32,8 @@ class MulchSpider(scrapy.Spider):
         
 
     def parse(self, response):
+        logging.warning(f"parsing: {response.url}")
+
         texts = response.xpath("//body//text()").getall()
         links = self.link_extractor.extract_links(response)
 
@@ -39,8 +45,8 @@ class MulchSpider(scrapy.Spider):
             item["url"] = response.url
             item["text"] = text
             item["keywords"] = self.keyword
+            logging.warning(f"yielding item {item['url']}") #this is not run
             yield item
-        # self.text_out = self.text_out + "\n".join(texts)
 
         #explore current node
         for link in links:
