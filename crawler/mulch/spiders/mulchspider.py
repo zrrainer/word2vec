@@ -12,7 +12,7 @@ class MulchSpider(scrapy.Spider):
     count = 0
     link_extractor = LinkExtractor()
     explored_links = []
-    keyword = "a"
+    keyword = "mulch"
     text_out = ""
     #implement visited links
 
@@ -39,7 +39,7 @@ class MulchSpider(scrapy.Spider):
 
         #record content of current node
         texts = MulchSpider.cleanString(texts)
-        texts = filter(lambda text: self.keyword in text, texts)  #define how to filter text
+        # texts = filter(lambda text: self.keyword in text, texts)  #define how to filter text
         for text in texts:
             item = MulchItem()
             item["url"] = response.url

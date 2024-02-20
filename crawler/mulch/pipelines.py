@@ -11,7 +11,7 @@ import logging
 
 
 class MulchPipeline:
-    #logging.basicConfig(encoding='utf-8', level=logging.INFO)
+    logging.basicConfig(filename = "logging.txt", encoding='utf-8', level=logging.INFO)
     log = ""
 
     def open_spider(self, spider):
@@ -46,18 +46,10 @@ class MulchPipeline:
 
     def process_item(self, item, spider):
 
-        logging.warning(f"""processing item: \n  
-                        INSERT INTO mulch(url,text,keywords) VALUES( \n 
-                        {item["url"]}, \n 
-                        {item["text"]}, \n 
-                        {item["keywords"]})""")
+        logging.warning("""INSERT INTO mulch (url, text, keywords) VALUES (\"%s\", \"%s\", \"%s\");""" %(item["url"], item["text"], item["keywords"]))
 
 
-
-        self.cursor.execute(f"""INSERT INTO mulch(url,text,keywords) VALUES( \n 
-                        {item["url"]}, \n 
-                        {item["text"]}, \n 
-                        {item["keywords"]});""")
+        self.cursor.execute("""INSERT INTO mulch (url, text, keywords) VALUES (\"%s\", \"%s\", \"%s\");""" %(item["url"], item["text"], item["keywords"]))
         self.connection.commit()
 
         return item
