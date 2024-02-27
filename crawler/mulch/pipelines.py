@@ -12,11 +12,14 @@ import logging
 
 class MulchPipeline:
     logging.basicConfig(filename = "logging.txt", encoding='utf-8', level=logging.INFO)
-    log = ""
+ 
 
     def open_spider(self, spider):
         logging.warning("spider opened")
+        keyword = "mulch" ##testing 
 
+
+        #open connection
         self.connection = mysql.connector.connect(
             user = "rainer",
             password = "13667090887Awa.",
@@ -24,6 +27,11 @@ class MulchPipeline:
         )
         self.cursor = self.connection.cursor()
 
+
+        #ckear table
+        self.cursor.execute("DROP TABLE IF EXISTS mulch")
+        self.cursor.execute("DROP TABLE IF EXISTS scraped_links")
+        #create table if none exists
         self.cursor.execute("""
             CREATE TABLE IF NOT EXISTS mulch(
                             id int NOT NULL auto_increment,
@@ -33,14 +41,19 @@ class MulchPipeline:
                             PRIMARY KEY (id)
             )""")
         
-    def close_spider(self):
+        self.cursor.execute("""
+            CREATE TABLE IF NOT EXISTS scraped_links(
+                            link VARCHAR(300), 
+                            UNIQUE(link)
+            )""") ##varchar key length max 3000 byte???
+        
+    def close_spider(self,*args):
+
+        logging.warning("closing spider %s, %s"%(self, args)) 
         self.cursor.close()
         self.connection.close()
 
         logging.info("spider closed")
-
-        f = open("output.txt", "w", encoding="utf-8")
-        f.write(self.log)
 
 
 
@@ -48,8 +61,8 @@ class MulchPipeline:
 
         logging.warning("""INSERT INTO mulch (url, text, keywords) VALUES (\"%s\", \"%s\", \"%s\");""" %(item["url"], item["text"], item["keywords"]))
 
-
         self.cursor.execute("""INSERT INTO mulch (url, text, keywords) VALUES (\"%s\", \"%s\", \"%s\");""" %(item["url"], item["text"], item["keywords"]))
+        self.cursor.execute("""INSERT INTO scraped_links VALUES(\"%s\");""" %(item["url"]))
         self.connection.commit()
 
         return item

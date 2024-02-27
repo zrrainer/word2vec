@@ -8,20 +8,17 @@ import logging
 
 class MulchSpider(scrapy.Spider):
     name = "mulch"
-    urls = ["https://www.ncbi.nlm.nih.gov/"]
+    urls = ["https://www.reddit.com/"]
     count = 0
     link_extractor = LinkExtractor()
     explored_links = []
-    keyword = "mulch"
+    keyword = "feet"
     text_out = ""
     #implement visited links
 
 
 
     def start_requests(self):
-        
-        #self.logger.info("start request")
-
         url = self.urls[0]
 
         if url not in self.explored_links:
@@ -29,6 +26,7 @@ class MulchSpider(scrapy.Spider):
             self.count += 1
 
         self.urls = self.urls[1:] 
+        self.start_requests()
         
 
     def parse(self, response):
@@ -39,7 +37,7 @@ class MulchSpider(scrapy.Spider):
 
         #record content of current node
         texts = MulchSpider.cleanString(texts)
-        # texts = filter(lambda text: self.keyword in text, texts)  #define how to filter text
+        texts = filter(lambda text: self.keyword in text, texts)  #define how to filter text
         for text in texts:
             item = MulchItem()
             item["url"] = response.url
@@ -55,15 +53,10 @@ class MulchSpider(scrapy.Spider):
         self.explored_links.append(self.urls[0])
 
 
-        #next node
+        #yield next request
         while (len(self.urls) > 0):
             yield from self.start_requests() 
 
-        #writing output
-        # f = open("output.txt", "w", encoding="utf-8")
-        # f.write(self.text_out)
-
-        # self.writeCSV(self.explored_links)
 
 
     #param: a list of strings
@@ -83,6 +76,10 @@ class MulchSpider(scrapy.Spider):
 
         return new_strings
     
+
+
+
+
 
     @classmethod
     def writeCSV(cls, list):
