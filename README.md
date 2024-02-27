@@ -18,3 +18,7 @@ crawler testing phase 1
 
 - does duplicate entry into scraped_link need additional handling?
 - scraping all body text with response.xpath("//body//text()") is a bit ick. sometimes it returns scripts that are way too long. 
+- error closing spider sometimes
+- why isnt my sql code being logged
+
+![](https://github.com/zrrainer/word2vec/blob/main/why_isnt_this_working.gif)
