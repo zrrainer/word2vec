@@ -22,3 +22,9 @@ crawler testing phase 1
 - why isnt my sql code being logged
 
 ![](https://github.com/zrrainer/word2vec/blob/main/why_isnt_this_working.gif)
+
+2024.3.3
+-updated xpath selection. should be good now (sweating)
+-something about the middleware passes additional argument into close_spider() and start_request() occationally. added argument collector...i really dont want to dig into the middleware
+
+

@@ -16,7 +16,6 @@ class MulchPipeline:
 
     def open_spider(self, spider):
         logging.warning("spider opened")
-        keyword = "mulch" ##testing 
 
 
         #open connection
@@ -59,10 +58,9 @@ class MulchPipeline:
 
     def process_item(self, item, spider):
 
-        logging.warning("""INSERT INTO mulch (url, text, keywords) VALUES (\"%s\", \"%s\", \"%s\");""" %(item["url"], item["text"], item["keywords"]))
+        logging.warning("""INSERT INTO mulch (url, text, keywords) VALUES (\"%s\", \"%s\", \"%s\");""" %(item["url"], item["text"], "mulch"))
 
-        self.cursor.execute("""INSERT INTO mulch (url, text, keywords) VALUES (\"%s\", \"%s\", \"%s\");""" %(item["url"], item["text"], item["keywords"]))
-        self.cursor.execute("""INSERT INTO scraped_links VALUES(\"%s\");""" %(item["url"]))
+        self.cursor.execute("""INSERT INTO mulch (url, text, keywords) VALUES (\"%s\", \"%s\", \"%s\");""" %(item["url"], item["text"], "mulch"))
         self.connection.commit()
 
         return item

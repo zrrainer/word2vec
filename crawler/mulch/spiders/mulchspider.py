@@ -8,31 +8,34 @@ import logging
 
 class MulchSpider(scrapy.Spider):
     name = "mulch"
-    urls = ["https://www.reddit.com/"]
+    urls = ["https://twitter.com/MARIMARI_EN/status/1726121501789999289"]
     count = 0
     link_extractor = LinkExtractor()
     explored_links = []
-    keyword = "feet"
-    text_out = ""
+    keyword = "mulch"
     #implement visited links
+    #sql for scraped link shou;ld be implemented here
 
 
 
-    def start_requests(self):
+    def start_requests(self, *args):
+        logging.warning("start request called with args: " + str(args))
+        logging.warning("frontier length: " + str(len(self.urls)))
         url = self.urls[0]
 
-        if url not in self.explored_links:
-            yield scrapy.Request(url=url, callback=self.parse)
-            self.count += 1
+        #if url not in self.explored_links:
+        yield scrapy.Request(url=url, callback=self.parse, errback = self.start_requests, dont_filter=True)
+        logging.warning("start request: " + url)
+        self.count += 1
 
         self.urls = self.urls[1:] 
-        self.start_requests()
+
         
 
     def parse(self, response):
         logging.warning(f"parsing: {response.url}")
 
-        texts = response.xpath("//body//text()").getall()
+        texts = response.xpath("//div/text()").getall()
         links = self.link_extractor.extract_links(response)
 
         #record content of current node
@@ -43,8 +46,10 @@ class MulchSpider(scrapy.Spider):
             item["url"] = response.url
             item["text"] = text
             item["keywords"] = self.keyword
-            logging.warning(f"yielding item {item['url']}") #this is not run
+            #logging.warning(f"yielding item {item['url']}") 
             yield item
+
+
 
         #explore current node
         for link in links:
@@ -54,8 +59,9 @@ class MulchSpider(scrapy.Spider):
 
 
         #yield next request
-        while (len(self.urls) > 0):
-            yield from self.start_requests() 
+        if (len(self.urls) > 0):
+            yield from self.start_requests() #so this is never called?
+
 
 
 
