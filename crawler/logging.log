@@ -1,16 +1,64 @@
-2024-03-02 16:37:46 [root] WARNING: spider opened
-2024-03-02 16:37:46 [root] WARNING: start request called with args: ()
-2024-03-02 16:37:46 [root] WARNING: frontier length: 1
-2024-03-02 16:37:46 [root] WARNING: start request: https://twitter.com/MARIMARI_EN/status/1726121501789999289
-2024-03-02 16:37:47 [root] WARNING: start request called with args: (<twisted.python.failure.Failure scrapy.exceptions.IgnoreRequest: Forbidden by robots.txt>,)
-2024-03-02 16:37:47 [root] WARNING: frontier length: 0
-2024-03-02 16:37:47 [scrapy.core.scraper] ERROR: Spider error processing <GET https://twitter.com/MARIMARI_EN/status/1726121501789999289> (referer: None)
-Traceback (most recent call last):
-  File "c:\Users\rainer\Desktop\github\word2vec\.venv\Lib\site-packages\scrapy\utils\defer.py", line 279, in iter_errback
-    yield next(it)
-          ^^^^^^^^
-  File "C:\Users\rainer\Desktop\github\word2vec\crawler\mulch\spiders\mulchspider.py", line 24, in start_requests
-    url = self.urls[0]
-          ~~~~~~~~~^^^
-IndexError: list index out of range
-2024-03-02 16:37:47 [root] WARNING: closing spider <mulch.pipelines.MulchPipeline object at 0x000001DDE0141010>, (<MulchSpider 'mulch' at 0x1dddfb63490>,)
+2024-03-03 16:47:20 [root] WARNING: spider opened
+2024-03-03 16:47:20 [root] WARNING: start request called with args: ()
+2024-03-03 16:47:20 [root] WARNING: frontier length: 1
+2024-03-03 16:47:20 [root] WARNING: start request: https://www.youtube.com/watch?v=5hPqr6nh00w
+2024-03-03 16:47:21 [root] WARNING: parsing: https://www.youtube.com/watch?v=5hPqr6nh00w
+2024-03-03 16:47:21 [root] WARNING: start request called with args: ()
+2024-03-03 16:47:21 [root] WARNING: frontier length: 13
+2024-03-03 16:47:21 [root] WARNING: start request: https://www.youtube.com/
+2024-03-03 16:47:21 [root] WARNING: parsing: https://www.youtube.com/
+2024-03-03 16:47:21 [root] WARNING: start request called with args: ()
+2024-03-03 16:47:21 [root] WARNING: frontier length: 13
+2024-03-03 16:47:21 [root] WARNING: start request: https://www.youtube.com/about/
+2024-03-03 16:47:22 [root] WARNING: parsing: https://about.youtube/
+2024-03-03 16:47:22 [root] WARNING: start request called with args: ()
+2024-03-03 16:47:22 [root] WARNING: frontier length: 45
+2024-03-03 16:47:22 [root] WARNING: start request: https://www.youtube.com/about/press/
+2024-03-03 16:47:23 [root] WARNING: parsing: https://blog.youtube/
+2024-03-03 16:47:23 [root] WARNING: start request called with args: ()
+2024-03-03 16:47:23 [root] WARNING: frontier length: 93
+2024-03-03 16:47:23 [root] WARNING: start request: https://www.youtube.com/about/copyright/
+2024-03-03 16:47:23 [root] WARNING: parsing: https://www.youtube.com/howyoutubeworks/policies/copyright/
+2024-03-03 16:47:23 [root] WARNING: start request called with args: ()
+2024-03-03 16:47:23 [root] WARNING: frontier length: 141
+2024-03-03 16:47:23 [root] WARNING: start request: https://www.youtube.com/t/contact_us/
+2024-03-03 16:47:23 [root] WARNING: parsing: https://www.youtube.com/t/contact_us/
+2024-03-03 16:47:23 [root] WARNING: start request called with args: ()
+2024-03-03 16:47:23 [root] WARNING: frontier length: 155
+2024-03-03 16:47:23 [root] WARNING: start request: https://www.youtube.com/creators/
+2024-03-03 16:47:24 [root] WARNING: parsing: https://www.youtube.com/creators/
+2024-03-03 16:47:24 [root] WARNING: start request called with args: ()
+2024-03-03 16:47:24 [root] WARNING: frontier length: 179
+2024-03-03 16:47:24 [root] WARNING: start request: https://www.youtube.com/ads/
+2024-03-03 16:47:24 [root] WARNING: parsing: https://www.youtube.com/ads/
+2024-03-03 16:47:24 [root] WARNING: start request called with args: ()
+2024-03-03 16:47:24 [root] WARNING: frontier length: 200
+2024-03-03 16:47:24 [root] WARNING: start request: https://developers.google.com/youtube
+2024-03-03 16:47:25 [root] WARNING: parsing: https://developers.google.com/youtube
+2024-03-03 16:47:25 [root] WARNING: start request called with args: ()
+2024-03-03 16:47:25 [root] WARNING: frontier length: 233
+2024-03-03 16:47:25 [root] WARNING: start request: https://www.youtube.com/t/terms
+2024-03-03 16:47:25 [root] WARNING: start request called with args: (<twisted.python.failure.Failure scrapy.exceptions.IgnoreRequest: Forbidden by robots.txt>,)
+2024-03-03 16:47:25 [root] WARNING: frontier length: 232
+2024-03-03 16:47:25 [root] WARNING: start request: https://www.youtube.com/t/privacy
+2024-03-03 16:47:26 [root] WARNING: parsing: https://policies.google.com/privacy?hl=en
+2024-03-03 16:47:26 [root] WARNING: start request called with args: ()
+2024-03-03 16:47:26 [root] WARNING: frontier length: 399
+2024-03-03 16:47:26 [root] WARNING: start request: https://www.youtube.com/about/policies/
+2024-03-03 16:47:26 [root] WARNING: parsing: https://www.youtube.com/howyoutubeworks/policies/community-guidelines/
+2024-03-03 16:47:26 [root] WARNING: start request called with args: ()
+2024-03-03 16:47:26 [root] WARNING: frontier length: 439
+2024-03-03 16:47:26 [root] WARNING: start request: https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen
+2024-03-03 16:47:26 [root] WARNING: parsing: https://www.youtube.com/howyoutubeworks/?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen
+2024-03-03 16:47:26 [root] WARNING: start request called with args: ()
+2024-03-03 16:47:26 [root] WARNING: frontier length: 439
+2024-03-03 16:47:26 [root] WARNING: start request: https://www.youtube.com/new
+2024-03-03 16:47:27 [root] WARNING: parsing: https://www.youtube.com/new
+2024-03-03 16:47:27 [root] WARNING: start request called with args: ()
+2024-03-03 16:47:27 [root] WARNING: frontier length: 443
+2024-03-03 16:47:27 [root] WARNING: start request: https://www.youtube.com/
+2024-03-03 16:47:27 [root] WARNING: parsing: https://www.youtube.com/
+2024-03-03 16:47:27 [root] WARNING: start request called with args: ()
+2024-03-03 16:47:27 [root] WARNING: frontier length: 443
+2024-03-03 16:47:27 [root] WARNING: start request: https://about.youtube/
+2024-03-03 16:47:27 [root] WARNING: closing spider <mulch.pipelines.MulchPipeline object at 0x000001CD32FE48D0>, (<MulchSpider 'mulch' at 0x1cd32d97790>,)

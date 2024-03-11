@@ -8,12 +8,12 @@ import logging
 
 class MulchSpider(scrapy.Spider):
     name = "mulch"
-    urls = ["https://twitter.com/MARIMARI_EN/status/1726121501789999289"]
+    urls = ["https://www.youtube.com/watch?v=5hPqr6nh00w"]
     count = 0
     link_extractor = LinkExtractor()
     explored_links = []
-    keyword = "mulch"
-    #implement visited links
+    keyword = "thank"
+    #implement visited links???
     #sql for scraped link shou;ld be implemented here
 
 
